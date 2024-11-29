@@ -1,0 +1,6448 @@
+{
+  "USA": [
+    {
+      "vehicle": "us_adats_bradley",
+      "ammo_type": {
+        "name": "us_adats_bradley_default"
+      }
+    },
+    {
+      "vehicle": "us_ags_teledyne",
+      "ammo_type": {
+        "name": "us_ags_teledyne_default"
+      }
+    },
+    {
+      "vehicle": "us_amx_13_75",
+      "ammo_type": {
+        "name": "us_amx_13_75_default"
+      }
+    },
+    {
+      "vehicle": "us_amx_13_90",
+      "ammo_type": {
+        "name": "us_amx_13_90_default"
+      }
+    },
+    {
+      "vehicle": "us_apc_m113",
+      "ammo_type": {
+        "name": "us_apc_m113_default"
+      }
+    },
+    {
+      "vehicle": "us_at_gun_m1",
+      "ammo_type": {
+        "name": "us_at_gun_m1_default"
+      }
+    },
+    {
+      "vehicle": "us_at_m40",
+      "ammo_type": {
+        "name": "us_at_m40_default"
+      }
+    },
+    {
+      "vehicle": "us_ccvl",
+      "ammo_type": {
+        "name": "us_ccvl_default"
+      }
+    },
+    {
+      "vehicle": "us_halftrack_m13",
+      "ammo_type": {
+        "name": "us_halftrack_m13_default"
+      }
+    },
+    {
+      "vehicle": "us_halftrack_m15",
+      "ammo_type": {
+        "name": "us_halftrack_m15_default"
+      }
+    },
+    {
+      "vehicle": "us_halftrack_m16",
+      "ammo_type": {
+        "name": "us_halftrack_m16_default"
+      }
+    },
+    {
+      "vehicle": "us_halftrack_m3_75mm_gmc",
+      "ammo_type": {
+        "name": "us_halftrack_m3_75mm_gmc_default"
+      }
+    },
+    {
+      "vehicle": "us_hstv_l",
+      "ammo_type": {
+        "name": "us_hstv_l_default"
+      }
+    },
+    {
+      "vehicle": "us_lav_ad",
+      "ammo_type": {
+        "name": "us_lav_ad_default"
+      }
+    },
+    {
+      "vehicle": "us_losat_ccv",
+      "ammo_type": {
+        "name": "us_losat_ccv_default"
+      }
+    },
+    {
+      "vehicle": "us_lvt_4_zis_2",
+      "ammo_type": {
+        "name": "us_lvt_4_zis_2_default"
+      }
+    },
+    {
+      "vehicle": "us_lvt_a_1",
+      "ammo_type": {
+        "name": "us_lvt_a_1_default"
+      }
+    },
+    {
+      "vehicle": "us_lvt_a_1_trb",
+      "ammo_type": {
+        "name": "us_lvt_a_1_trb_default"
+      }
+    },
+    {
+      "vehicle": "us_lvt_a_4",
+      "ammo_type": {
+        "name": "us_lvt_a_4_default"
+      }
+    },
+    {
+      "vehicle": "us_m10",
+      "ammo_type": {
+        "name": "us_m10_default"
+      }
+    },
+    {
+      "vehicle": "us_m103",
+      "ammo_type": {
+        "name": "us_m103_default"
+      }
+    },
+    {
+      "vehicle": "us_m109a1",
+      "ammo_type": {
+        "name": "us_m109a1_default"
+      }
+    },
+    {
+      "vehicle": "us_m1128_mgs",
+      "ammo_type": {
+        "name": "us_m1128_mgs_default"
+      }
+    },
+    {
+      "vehicle": "us_m1128_wolfpack",
+      "ammo_type": {
+        "name": "us_m1128_wolfpack_default"
+      }
+    },
+    {
+      "vehicle": "us_m163_vulcan",
+      "ammo_type": {
+        "name": "us_m163_vulcan_default"
+      }
+    },
+    {
+      "vehicle": "us_m18_hellcat",
+      "ammo_type": {
+        "name": "us_m18_hellcat_default"
+      }
+    },
+    {
+      "vehicle": "us_m18_hellcat_black_cat",
+      "ammo_type": {
+        "name": "us_m18_hellcat_black_cat_default"
+      }
+    },
+    {
+      "vehicle": "us_m18_hellcat_black_cat_race",
+      "ammo_type": {
+        "name": "us_m18_hellcat_black_cat_race_default"
+      }
+    },
+    {
+      "vehicle": "us_m18_super_hellcat",
+      "ammo_type": {
+        "name": "us_m18_super_hellcat_default"
+      }
+    },
+    {
+      "vehicle": "us_m19",
+      "ammo_type": {
+        "name": "us_m19_default"
+      }
+    },
+    {
+      "vehicle": "us_m1_abrams",
+      "ammo_type": {
+        "name": "us_m1_abrams_default"
+      }
+    },
+    {
+      "vehicle": "us_m1_abrams_kvt",
+      "ammo_type": {
+        "name": "us_m1_abrams_kvt_default"
+      }
+    },
+    {
+      "vehicle": "us_m1_ip_abrams",
+      "ammo_type": {
+        "name": "us_m1_ip_abrams_default"
+      }
+    },
+    {
+      "vehicle": "us_m1a1_abrams",
+      "ammo_type": {
+        "name": "us_m1a1_abrams_default"
+      }
+    },
+    {
+      "vehicle": "us_m1a1_abrams_yt_cup_2019",
+      "ammo_type": {
+        "name": "us_m1a1_abrams_yt_cup_2019_default"
+      }
+    },
+    {
+      "vehicle": "us_m1a1_aim_abrams",
+      "ammo_type": {
+        "name": "us_m1a1_aim_abrams_default"
+      }
+    },
+    {
+      "vehicle": "us_m36b2",
+      "ammo_type": {
+        "name": "us_m36b2_default"
+      }
+    },
+    {
+      "vehicle": "us_m3_bradley",
+      "ammo_type": {
+        "name": "us_m3_bradley_default"
+      }
+    },
+    {
+      "vehicle": "us_m3_lee",
+      "ammo_type": {
+        "name": "us_m3_lee_default"
+      }
+    },
+    {
+      "vehicle": "us_m3_stuart",
+      "ammo_type": {
+        "name": "us_m3_stuart_default"
+      }
+    },
+    {
+      "vehicle": "us_m3a1_stuart",
+      "ammo_type": {
+        "name": "us_m3a1_stuart_default"
+      }
+    },
+    {
+      "vehicle": "us_m3a1_stuart_usmc",
+      "ammo_type": {
+        "name": "us_m3a1_stuart_usmc_default"
+      }
+    },
+    {
+      "vehicle": "us_m3a3_bradley",
+      "ammo_type": {
+        "name": "us_m3a3_bradley_default"
+      }
+    },
+    {
+      "vehicle": "us_m41_walker_bulldog",
+      "ammo_type": {
+        "name": "us_m41_walker_bulldog_default"
+      }
+    },
+    {
+      "vehicle": "us_m42_duster",
+      "ammo_type": {
+        "name": "us_m42_duster_default"
+      }
+    },
+    {
+      "vehicle": "us_m46_patton",
+      "ammo_type": {
+        "name": "us_m46_patton_default"
+      }
+    },
+    {
+      "vehicle": "us_m46_patton_73_armor_bat",
+      "ammo_type": {
+        "name": "us_m46_patton_73_armor_bat_default"
+      }
+    },
+    {
+      "vehicle": "us_m47_patton_II",
+      "ammo_type": {
+        "name": "us_m47_patton_II_default"
+      }
+    },
+    {
+      "vehicle": "us_m48a1_patton_III",
+      "ammo_type": {
+        "name": "us_m48a1_patton_III_default"
+      }
+    },
+    {
+      "vehicle": "us_m4_sherman",
+      "ammo_type": {
+        "name": "us_m4_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4_sherman_calliope",
+      "ammo_type": {
+        "name": "us_m4_sherman_calliope_default"
+      }
+    },
+    {
+      "vehicle": "us_m4_sherman_promo",
+      "ammo_type": {
+        "name": "us_m4_sherman_promo_default"
+      }
+    },
+    {
+      "vehicle": "us_m4_t26",
+      "ammo_type": {
+        "name": "us_m4_t26_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a1_1942_sherman",
+      "ammo_type": {
+        "name": "us_m4a1_1942_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a1_76w_sherman",
+      "ammo_type": {
+        "name": "us_m4a1_76w_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a2_1944",
+      "ammo_type": {
+        "name": "us_m4a2_1944_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a2_1944_germ",
+      "ammo_type": {
+        "name": "us_m4a2_1944_germ_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a2_76w_sherman",
+      "ammo_type": {
+        "name": "us_m4a2_76w_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a2_76w_sherman_tutorial",
+      "ammo_type": {
+        "name": "us_m4a2_76w_sherman_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a2_sherman",
+      "ammo_type": {
+        "name": "us_m4a2_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a3_105_sherman",
+      "ammo_type": {
+        "name": "us_m4a3_105_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a3e2_76w_sherman_jumbo",
+      "ammo_type": {
+        "name": "us_m4a3e2_76w_sherman_jumbo_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a3e2_sherman_jumbo",
+      "ammo_type": {
+        "name": "us_m4a3e2_sherman_jumbo_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a3e2_sherman_jumbo_cobra_kin",
+      "ammo_type": {
+        "name": "us_m4a3e2_sherman_jumbo_cobra_kin_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a3e8_76w_sherman",
+      "ammo_type": {
+        "name": "us_m4a3e8_76w_sherman_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a5_ram_2",
+      "ammo_type": {
+        "name": "us_m4a5_ram_2_default"
+      }
+    },
+    {
+      "vehicle": "us_m50_ontos",
+      "ammo_type": {
+        "name": "us_m50_ontos_default"
+      }
+    },
+    {
+      "vehicle": "us_m551",
+      "ammo_type": {
+        "name": "us_m551_default"
+      }
+    },
+    {
+      "vehicle": "us_m551_76",
+      "ammo_type": {
+        "name": "us_m551_76_default"
+      }
+    },
+    {
+      "vehicle": "us_m551_football",
+      "ammo_type": {
+        "name": "us_m551_football_default"
+      }
+    },
+    {
+      "vehicle": "us_m56_scorpion",
+      "ammo_type": {
+        "name": "us_m56_scorpion_default"
+      }
+    },
+    {
+      "vehicle": "us_m5a1_stuart",
+      "ammo_type": {
+        "name": "us_m5a1_stuart_default"
+      }
+    },
+    {
+      "vehicle": "us_m5a1_stuart_canadian_5st_arm",
+      "ammo_type": {
+        "name": "us_m5a1_stuart_canadian_5st_arm_default"
+      }
+    },
+    {
+      "vehicle": "us_m5a1_stuart_td",
+      "ammo_type": {
+        "name": "us_m5a1_stuart_td_default"
+      }
+    },
+    {
+      "vehicle": "us_m60",
+      "ammo_type": {
+        "name": "us_m60_default"
+      }
+    },
+    {
+      "vehicle": "us_m60_120s",
+      "ammo_type": {
+        "name": "us_m60_120s_default"
+      }
+    },
+    {
+      "vehicle": "us_m60a1",
+      "ammo_type": {
+        "name": "us_m60a1_default"
+      }
+    },
+    {
+      "vehicle": "us_m60a1_rise_passive_era",
+      "ammo_type": {
+        "name": "us_m60a1_rise_passive_era_default"
+      }
+    },
+    {
+      "vehicle": "us_m60a2",
+      "ammo_type": {
+        "name": "us_m60a2_default"
+      }
+    },
+    {
+      "vehicle": "us_m60a3_slep",
+      "ammo_type": {
+        "name": "us_m60a3_slep_default"
+      }
+    },
+    {
+      "vehicle": "us_m60a3_tts",
+      "ammo_type": {
+        "name": "us_m60a3_tts_default"
+      }
+    },
+    {
+      "vehicle": "us_m6a1",
+      "ammo_type": {
+        "name": "us_m6a1_default"
+      }
+    },
+    {
+      "vehicle": "us_m6a2e1",
+      "ammo_type": {
+        "name": "us_m6a2e1_default"
+      }
+    },
+    {
+      "vehicle": "us_m728",
+      "ammo_type": {
+        "name": "us_m728_default"
+      }
+    },
+    {
+      "vehicle": "us_m8_greyhound",
+      "ammo_type": {
+        "name": "us_m8_greyhound_default"
+      }
+    },
+    {
+      "vehicle": "us_m8_scott",
+      "ammo_type": {
+        "name": "us_m8_scott_default"
+      }
+    },
+    {
+      "vehicle": "us_m8a1",
+      "ammo_type": {
+        "name": "us_m8a1_default"
+      }
+    },
+    {
+      "vehicle": "us_m901_itv",
+      "ammo_type": {
+        "name": "us_m901_itv_default"
+      }
+    },
+    {
+      "vehicle": "us_magach_3",
+      "ammo_type": {
+        "name": "us_magach_3_default"
+      }
+    },
+    {
+      "vehicle": "us_mbt_70",
+      "ammo_type": {
+        "name": "us_mbt_70_default"
+      }
+    },
+    {
+      "vehicle": "us_merkava_mk_1",
+      "ammo_type": {
+        "name": "us_merkava_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "us_merkava_mk_2b_late",
+      "ammo_type": {
+        "name": "us_merkava_mk_2b_late_default"
+      }
+    },
+    {
+      "vehicle": "us_merkava_mk_3d",
+      "ammo_type": {
+        "name": "us_merkava_mk_3d_default"
+      }
+    },
+    {
+      "vehicle": "us_mim_72_chaparral",
+      "ammo_type": {
+        "name": "us_mim_72_chaparral_default"
+      }
+    },
+    {
+      "vehicle": "us_mk1_grant",
+      "ammo_type": {
+        "name": "us_mk1_grant_default"
+      }
+    },
+    {
+      "vehicle": "us_railway_boxcar_wagon",
+      "ammo_type": {
+        "name": "us_railway_boxcar_wagon_default"
+      }
+    },
+    {
+      "vehicle": "us_railway_carriage",
+      "ammo_type": {
+        "name": "us_railway_carriage_default"
+      }
+    },
+    {
+      "vehicle": "us_railway_gondola_wagon",
+      "ammo_type": {
+        "name": "us_railway_gondola_wagon_default"
+      }
+    },
+    {
+      "vehicle": "us_railway_locomotive",
+      "ammo_type": {
+        "name": "us_railway_locomotive_default"
+      }
+    },
+    {
+      "vehicle": "us_railway_passenger_wagon",
+      "ammo_type": {
+        "name": "us_railway_passenger_wagon_default"
+      }
+    },
+    {
+      "vehicle": "us_t114",
+      "ammo_type": {
+        "name": "us_t114_default"
+      }
+    },
+    {
+      "vehicle": "us_t14",
+      "ammo_type": {
+        "name": "us_t14_default"
+      }
+    },
+    {
+      "vehicle": "us_t18_e2",
+      "ammo_type": {
+        "name": "us_t18_e2_default"
+      }
+    },
+    {
+      "vehicle": "us_tie1",
+      "ammo_type": {
+        "name": "us_tie1_default"
+      }
+    },
+    {
+      "vehicle": "us_t20",
+      "ammo_type": {
+        "name": "us_t20_default"
+      }
+    },
+    {
+      "vehicle": "us_t25",
+      "ammo_type": {
+        "name": "us_t25_default"
+      }
+    },
+    {
+      "vehicle": "us_t26e4_superpershing",
+      "ammo_type": {
+        "name": "us_t26e4_superpershing_default"
+      }
+    },
+    {
+      "vehicle": "us_t26e5",
+      "ammo_type": {
+        "name": "us_t26e5_default"
+      }
+    },
+    {
+      "vehicle": "us_t28",
+      "ammo_type": {
+        "name": "us_t28_default"
+      }
+    },
+    {
+      "vehicle": "us_t29",
+      "ammo_type": {
+        "name": "us_t29_default"
+      }
+    },
+    {
+      "vehicle": "us_t30",
+      "ammo_type": {
+        "name": "us_t30_default"
+      }
+    },
+    {
+      "vehicle": "us_t32",
+      "ammo_type": {
+        "name": "us_t32_default"
+      }
+    },
+    {
+      "vehicle": "us_t32_tutorial",
+      "ammo_type": {
+        "name": "us_t32_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "us_t32e1",
+      "ammo_type": {
+        "name": "us_t32e1_default"
+      }
+    },
+    {
+      "vehicle": "us_t34",
+      "ammo_type": {
+        "name": "us_t34_default"
+      }
+    },
+    {
+      "vehicle": "us_t54e1",
+      "ammo_type": {
+        "name": "us_t54e1_default"
+      }
+    },
+    {
+      "vehicle": "us_t54e2",
+      "ammo_type": {
+        "name": "us_t54e2_default"
+      }
+    },
+    {
+      "vehicle": "us_t77e1",
+      "ammo_type": {
+        "name": "us_t77e1_default"
+      }
+    },
+    {
+      "vehicle": "us_t92",
+      "ammo_type": {
+        "name": "us_t92_default"
+      }
+    },
+    {
+      "vehicle": "us_t95",
+      "ammo_type": {
+        "name": "us_t95_default"
+      }
+    },
+    {
+      "vehicle": "us_t95e1",
+      "ammo_type": {
+        "name": "us_t95e1_default"
+      }
+    },
+    {
+      "vehicle": "us_truck_us6_studebaker_board",
+      "ammo_type": {
+        "name": "us_truck_us6_studebaker_board_default"
+      }
+    },
+    {
+      "vehicle": "us_truck_us6_studebaker_tent",
+      "ammo_type": {
+        "name": "us_truck_us6_studebaker_tent_default"
+      }
+    },
+    {
+      "vehicle": "us_xm1_chrysler",
+      "ammo_type": {
+        "name": "us_xm1_chrysler_default"
+      }
+    },
+    {
+      "vehicle": "us_xm1_gm",
+      "ammo_type": {
+        "name": "us_xm1_gm_default"
+      }
+    },
+    {
+      "vehicle": "us_xm_8",
+      "ammo_type": {
+        "name": "us_xm_8_default"
+      }
+    },
+    {
+      "vehicle": "us_xm_803",
+      "ammo_type": {
+        "name": "us_xm_803_default"
+      }
+    },
+    {
+      "vehicle": "us_xm_975_roland",
+      "ammo_type": {
+        "name": "us_xm_975_roland_default"
+      }
+    },
+    {
+      "vehicle": "us_t77e1",
+      "ammo_type": {
+        "name": "us_t77e1_default"
+      }
+    },
+    {
+      "vehicle": "us_skink_aa",
+      "ammo_type": {
+        "name": "us_skink_aa_default"
+      }
+    },
+    {
+      "vehicle": "us_m4a5_ram",
+      "ammo_type": {
+        "name": "us_m4a5_ram_default"
+      }
+    },
+    {
+      "vehicle": "us_t1e1_90",
+      "ammo_type": {
+        "name": "us_t1e1_90_default"
+      }
+    }
+  ],
+  "China": [
+    {
+      "vehicle": "cn_bt_5",
+      "ammo_type": {
+        "name": "cn_bt_5_default"
+      }
+    },
+    {
+      "vehicle": "cn_cm11",
+      "ammo_type": {
+        "name": "cn_cm11_default"
+      }
+    },
+    {
+      "vehicle": "cn_cm_25",
+      "ammo_type": {
+        "name": "cn_cm_25_default"
+      }
+    },
+    {
+      "vehicle": "cn_dodge_m37",
+      "ammo_type": {
+        "name": "cn_dodge_m37_default"
+      }
+    },
+    {
+      "vehicle": "cn_gmc_cckw_353_m45_quad",
+      "ammo_type": {
+        "name": "cn_gmc_cckw_353_m45_quad_default"
+      }
+    },
+    {
+      "vehicle": "cn_hj_9",
+      "ammo_type": {
+        "name": "cn_hj_9_default"
+      }
+    },
+    {
+      "vehicle": "cn_is_2_1943",
+      "ammo_type": {
+        "name": "cn_is_2_1943_default"
+      }
+    },
+    {
+      "vehicle": "cn_is_2_1943_no402",
+      "ammo_type": {
+        "name": "cn_is_2_1943_no402_default"
+      }
+    },
+    {
+      "vehicle": "cn_is_2_1944",
+      "ammo_type": {
+        "name": "cn_is_2_1944_default"
+      }
+    },
+    {
+      "vehicle": "cn_isu_122",
+      "ammo_type": {
+        "name": "cn_isu_122_default"
+      }
+    },
+    {
+      "vehicle": "cn_isu_152",
+      "ammo_type": {
+        "name": "cn_isu_152_default"
+      }
+    },
+    {
+      "vehicle": "cn_lvt_4_zis_2",
+      "ammo_type": {
+        "name": "cn_lvt_4_zis_2_default"
+      }
+    },
+    {
+      "vehicle": "cn_m10",
+      "ammo_type": {
+        "name": "cn_m10_default"
+      }
+    },
+    {
+      "vehicle": "cn_m113a1_tow",
+      "ammo_type": {
+        "name": "cn_m113a1_tow_default"
+      }
+    },
+    {
+      "vehicle": "cn_m18_hellcat",
+      "ammo_type": {
+        "name": "cn_m18_hellcat_default"
+      }
+    },
+    {
+      "vehicle": "cn_m24_chaffee",
+      "ammo_type": {
+        "name": "cn_m24_chaffee_default"
+      }
+    },
+    {
+      "vehicle": "cn_m36",
+      "ammo_type": {
+        "name": "cn_m36_default"
+      }
+    },
+    {
+      "vehicle": "cn_m3a3_stuart",
+      "ammo_type": {
+        "name": "cn_m3a3_stuart_default"
+      }
+    },
+    {
+      "vehicle": "cn_m3a3_stuart_1st_ptg",
+      "ammo_type": {
+        "name": "cn_m3a3_stuart_1st_ptg_default"
+      }
+    },
+    {
+      "vehicle": "cn_m41_a3_walker_bulldog",
+      "ammo_type": {
+        "name": "cn_m41_a3_walker_bulldog_default"
+      }
+    },
+    {
+      "vehicle": "cn_m42_duster",
+      "ammo_type": {
+        "name": "cn_m42_duster_default"
+      }
+    },
+    {
+      "vehicle": "cn_m48a1_patton_III",
+      "ammo_type": {
+        "name": "cn_m48a1_patton_III_default"
+      }
+    },
+    {
+      "vehicle": "cn_m4a1_76w_sherman",
+      "ammo_type": {
+        "name": "cn_m4a1_76w_sherman_default"
+      }
+    },
+    {
+      "vehicle": "cn_m4a4_sherman",
+      "ammo_type": {
+        "name": "cn_m4a4_sherman_default"
+      }
+    },
+    {
+      "vehicle": "cn_m4a4_sherman_1st_ptg",
+      "ammo_type": {
+        "name": "cn_m4a4_sherman_1st_ptg_default"
+      }
+    },
+    {
+      "vehicle": "cn_m5a1_stuart",
+      "ammo_type": {
+        "name": "cn_m5a1_stuart_default"
+      }
+    },
+    {
+      "vehicle": "cn_m60a3_tts",
+      "ammo_type": {
+        "name": "cn_m60a3_tts_default"
+      }
+    },
+    {
+      "vehicle": "cn_m8_greyhound",
+      "ammo_type": {
+        "name": "cn_m8_greyhound_default"
+      }
+    },
+    {
+      "vehicle": "cn_m8_scott",
+      "ammo_type": {
+        "name": "cn_m8_scott_default"
+      }
+    },
+    {
+      "vehicle": "cn_m_41d",
+      "ammo_type": {
+        "name": "cn_m_41d_default"
+      }
+    },
+    {
+      "vehicle": "cn_mbt2000",
+      "ammo_type": {
+        "name": "cn_mbt2000_default"
+      }
+    },
+    {
+      "vehicle": "cn_object_122tm",
+      "ammo_type": {
+        "name": "cn_object_122tm_default"
+      }
+    },
+    {
+      "vehicle": "cn_object_211",
+      "ammo_type": {
+        "name": "cn_object_211_default"
+      }
+    },
+    {
+      "vehicle": "cn_pgz_04a",
+      "ammo_type": {
+        "name": "cn_pgz_04a_default"
+      }
+    },
+    {
+      "vehicle": "cn_pgz_09",
+      "ammo_type": {
+        "name": "cn_pgz_09_default"
+      }
+    },
+    {
+      "vehicle": "cn_pgz_88",
+      "ammo_type": {
+        "name": "cn_pgz_88_default"
+      }
+    },
+    {
+      "vehicle": "cn_plz_83",
+      "ammo_type": {
+        "name": "cn_plz_83_default"
+      }
+    },
+    {
+      "vehicle": "cn_plz_83_130",
+      "ammo_type": {
+        "name": "cn_plz_83_130_default"
+      }
+    },
+    {
+      "vehicle": "cn_pt_76",
+      "ammo_type": {
+        "name": "cn_pt_76_default"
+      }
+    },
+    {
+      "vehicle": "cn_ptl_02",
+      "ammo_type": {
+        "name": "cn_ptl_02_default"
+      }
+    },
+    {
+      "vehicle": "cn_ptz_89",
+      "ammo_type": {
+        "name": "cn_ptz_89_default"
+      }
+    },
+    {
+      "vehicle": "cn_qn506",
+      "ammo_type": {
+        "name": "cn_qn506_default"
+      }
+    },
+    {
+      "vehicle": "cn_sdkfz_222_early",
+      "ammo_type": {
+        "name": "cn_sdkfz_222_early_default"
+      }
+    },
+    {
+      "vehicle": "cn_su_100_1945",
+      "ammo_type": {
+        "name": "cn_su_100_1945_default"
+      }
+    },
+    {
+      "vehicle": "cn_su_76m_1943",
+      "ammo_type": {
+        "name": "cn_su_76m_1943_default"
+      }
+    },
+    {
+      "vehicle": "cn_t_26_1940",
+      "ammo_type": {
+        "name": "cn_t_26_1940_default"
+      }
+    },
+    {
+      "vehicle": "cn_t_26_no531",
+      "ammo_type": {
+        "name": "cn_t_26_no531_default"
+      }
+    },
+    {
+      "vehicle": "cn_t_34_1942",
+      "ammo_type": {
+        "name": "cn_t_34_1942_default"
+      }
+    },
+    {
+      "vehicle": "cn_t_34_85_d_5t",
+      "ammo_type": {
+        "name": "cn_t_34_85_d_5t_default"
+      }
+    },
+    {
+      "vehicle": "cn_t_34_85_zis_53_no215",
+      "ammo_type": {
+        "name": "cn_t_34_85_zis_53_no215_default"
+      }
+    },
+    {
+      "vehicle": "cn_t_62",
+      "ammo_type": {
+        "name": "cn_t_62_default"
+      }
+    },
+    {
+      "vehicle": "cn_tor_m1",
+      "ammo_type": {
+        "name": "cn_tor_m1_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_58",
+      "ammo_type": {
+        "name": "cn_type_58_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_59",
+      "ammo_type": {
+        "name": "cn_type_59_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_59d",
+      "ammo_type": {
+        "name": "cn_type_59d_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_62",
+      "ammo_type": {
+        "name": "cn_type_62_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_63_I",
+      "ammo_type": {
+        "name": "cn_type_63_I_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_64",
+      "ammo_type": {
+        "name": "cn_type_64_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_65_aa",
+      "ammo_type": {
+        "name": "cn_type_65_aa_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_69",
+      "ammo_type": {
+        "name": "cn_type_69_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_69_2a",
+      "ammo_type": {
+        "name": "cn_type_69_2a_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_69_2g",
+      "ammo_type": {
+        "name": "cn_type_69_2g_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_86",
+      "ammo_type": {
+        "name": "cn_type_86_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_95_ha_go",
+      "ammo_type": {
+        "name": "cn_type_95_ha_go_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_97_chi_ha",
+      "ammo_type": {
+        "name": "cn_type_97_chi_ha_default"
+      }
+    },
+    {
+      "vehicle": "cn_type_97_kai",
+      "ammo_type": {
+        "name": "cn_type_97_kai_default"
+      }
+    },
+    {
+      "vehicle": "cn_vt_4",
+      "ammo_type": {
+        "name": "cn_vt_4_default"
+      }
+    },
+    {
+      "vehicle": "cn_vt_4b",
+      "ammo_type": {
+        "name": "cn_vt_4b_default"
+      }
+    },
+    {
+      "vehicle": "cn_wma_301",
+      "ammo_type": {
+        "name": "cn_wma_301_default"
+      }
+    },
+    {
+      "vehicle": "cn_wz_1001",
+      "ammo_type": {
+        "name": "cn_wz_1001_default"
+      }
+    },
+    {
+      "vehicle": "cn_wz_305",
+      "ammo_type": {
+        "name": "cn_wz_305_default"
+      }
+    },
+    {
+      "vehicle": "cn_zbd_04a",
+      "ammo_type": {
+        "name": "cn_zbd_04a_default"
+      }
+    },
+    {
+      "vehicle": "cn_zsd63_pg87",
+      "ammo_type": {
+        "name": "cn_zsd63_pg87_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztl_11",
+      "ammo_type": {
+        "name": "cn_ztl_11_default"
+      }
+    },
+    {
+      "vehicle": "cn_zts_63_1980",
+      "ammo_type": {
+        "name": "cn_zts_63_1980_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_59a",
+      "ammo_type": {
+        "name": "cn_ztz_59a_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_88a",
+      "ammo_type": {
+        "name": "cn_ztz_88a_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_88b",
+      "ammo_type": {
+        "name": "cn_ztz_88b_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_96",
+      "ammo_type": {
+        "name": "cn_ztz_96_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_96a",
+      "ammo_type": {
+        "name": "cn_ztz_96a_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_96a_prot",
+      "ammo_type": {
+        "name": "cn_ztz_96a_prot_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_96a_race",
+      "ammo_type": {
+        "name": "cn_ztz_96a_race_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_99",
+      "ammo_type": {
+        "name": "cn_ztz_99_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_99_w",
+      "ammo_type": {
+        "name": "cn_ztz_99_w_default"
+      }
+    },
+    {
+      "vehicle": "cn_ztz_99a",
+      "ammo_type": {
+        "name": "cn_ztz_99a_default"
+      }
+    },
+    {
+      "vehicle": "cn_plz_05 ",
+      "ammo_type": {
+        "name": "cn_plz_05 _default"
+      }
+    },
+    {
+      "vehicle": "cn_antelope_tc_1l_ads",
+      "ammo_type": {
+        "name": "cn_antelope_tc_1l_ads_default"
+      }
+    }
+  ],
+  "Germany": [
+    {
+      "vehicle": "germ_amd_35_kwk",
+      "ammo_type": {
+        "name": "germ_amd_35_kwk_default"
+      }
+    },
+    {
+      "vehicle": "germ_apc_m113",
+      "ammo_type": {
+        "name": "germ_apc_m113_default"
+      }
+    },
+    {
+      "vehicle": "germ_at_gun_flak36",
+      "ammo_type": {
+        "name": "germ_at_gun_flak36_default"
+      }
+    },
+    {
+      "vehicle": "germ_at_gun_pak36",
+      "ammo_type": {
+        "name": "germ_at_gun_pak36_default"
+      }
+    },
+    {
+      "vehicle": "germ_at_gun_pak38",
+      "ammo_type": {
+        "name": "germ_at_gun_pak38_default"
+      }
+    },
+    {
+      "vehicle": "germ_at_gun_pak40",
+      "ammo_type": {
+        "name": "germ_at_gun_pak40_default"
+      }
+    },
+    {
+      "vehicle": "germ_begleitpanzer_57",
+      "ammo_type": {
+        "name": "germ_begleitpanzer_57_default"
+      }
+    },
+    {
+      "vehicle": "germ_bmp_1_ddr",
+      "ammo_type": {
+        "name": "germ_bmp_1_ddr_default"
+      }
+    },
+    {
+      "vehicle": "germ_erprobungstrager_3_achs_turm",
+      "ammo_type": {
+        "name": "germ_erprobungstrager_3_achs_turm_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_38t_Gepard",
+      "ammo_type": {
+        "name": "germ_flakpanzer_38t_Gepard_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_I_ausf_A",
+      "ammo_type": {
+        "name": "germ_flakpanzer_I_ausf_A_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_IV_Kugelblitz",
+      "ammo_type": {
+        "name": "germ_flakpanzer_IV_Kugelblitz_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_IV_Ostwind",
+      "ammo_type": {
+        "name": "germ_flakpanzer_IV_Ostwind_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_IV_Ostwind_2",
+      "ammo_type": {
+        "name": "germ_flakpanzer_IV_Ostwind_2_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_IV_Wirbelwind",
+      "ammo_type": {
+        "name": "germ_flakpanzer_IV_Wirbelwind_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_V_Coelian",
+      "ammo_type": {
+        "name": "germ_flakpanzer_V_Coelian_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_zerstorer_45",
+      "ammo_type": {
+        "name": "germ_flakpanzer_zerstorer_45_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpz_1a2_Gepard",
+      "ammo_type": {
+        "name": "germ_flakpz_1a2_Gepard_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpz_I_Gepard",
+      "ammo_type": {
+        "name": "germ_flakpz_I_Gepard_default"
+      }
+    },
+    {
+      "vehicle": "germ_flarakpz_1",
+      "ammo_type": {
+        "name": "germ_flarakpz_1_default"
+      }
+    },
+    {
+      "vehicle": "germ_flarakrad",
+      "ammo_type": {
+        "name": "germ_flarakrad_default"
+      }
+    },
+    {
+      "vehicle": "germ_infanterie_kampfpanzer_churchill",
+      "ammo_type": {
+        "name": "germ_infanterie_kampfpanzer_churchill_default"
+      }
+    },
+    {
+      "vehicle": "germ_jgdpz_38t",
+      "ammo_type": {
+        "name": "germ_jgdpz_38t_default"
+      }
+    },
+    {
+      "vehicle": "germ_jgdpz_IV_L48",
+      "ammo_type": {
+        "name": "germ_jgdpz_IV_L48_default"
+      }
+    },
+    {
+      "vehicle": "germ_kanonenjagdpanzer",
+      "ammo_type": {
+        "name": "germ_kanonenjagdpanzer_default"
+      }
+    },
+    {
+      "vehicle": "germ_kpz_70",
+      "ammo_type": {
+        "name": "germ_kpz_70_default"
+      }
+    },
+    {
+      "vehicle": "germ_kpz_t72m1",
+      "ammo_type": {
+        "name": "germ_kpz_t72m1_default"
+      }
+    },
+    {
+      "vehicle": "germ_kv_1_kwk_40",
+      "ammo_type": {
+        "name": "germ_kv_1_kwk_40_default"
+      }
+    },
+    {
+      "vehicle": "germ_kv_1B_finland",
+      "ammo_type": {
+        "name": "germ_kv_1B_finland_default"
+      }
+    },
+    {
+      "vehicle": "germ_kv_2_754r",
+      "ammo_type": {
+        "name": "germ_kv_2_754r_default"
+      }
+    },
+    {
+      "vehicle": "germ_launcher_vertical",
+      "ammo_type": {
+        "name": "germ_launcher_vertical_default"
+      }
+    },
+    {
+      "vehicle": "germ_le_kpz_m41",
+      "ammo_type": {
+        "name": "germ_le_kpz_m41_default"
+      }
+    },
+    {
+      "vehicle": "germ_leichter_ladungstrager_303a",
+      "ammo_type": {
+        "name": "germ_leichter_ladungstrager_303a_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_1a5",
+      "ammo_type": {
+        "name": "germ_leopard_1a5_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2_pt14",
+      "ammo_type": {
+        "name": "germ_leopard_2_pt14_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a4",
+      "ammo_type": {
+        "name": "germ_leopard_2a4_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a4",
+      "ammo_type": {
+        "name": "germ_leopard_2a4_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a4_pzbtl_123",
+      "ammo_type": {
+        "name": "germ_leopard_2a4_pzbtl_123_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a5",
+      "ammo_type": {
+        "name": "germ_leopard_2a5_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a5_pso",
+      "ammo_type": {
+        "name": "germ_leopard_2a5_pso_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a5_yt_cup_2019",
+      "ammo_type": {
+        "name": "germ_leopard_2a5_yt_cup_2019_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a6",
+      "ammo_type": {
+        "name": "germ_leopard_2a6_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2a7v",
+      "ammo_type": {
+        "name": "germ_leopard_2a7v_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2av",
+      "ammo_type": {
+        "name": "germ_leopard_2av_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2k",
+      "ammo_type": {
+        "name": "germ_leopard_2k_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_2pl",
+      "ammo_type": {
+        "name": "germ_leopard_2pl_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_a1a1_120",
+      "ammo_type": {
+        "name": "germ_leopard_a1a1_120_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_c2_mexas",
+      "ammo_type": {
+        "name": "germ_leopard_c2_mexas_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_I",
+      "ammo_type": {
+        "name": "germ_leopard_I_default"
+      }
+    },
+    {
+      "vehicle": "germ_leopard_I_a1",
+      "ammo_type": {
+        "name": "germ_leopard_I_a1_default"
+      }
+    },
+    {
+      "vehicle": "germ_m109g",
+      "ammo_type": {
+        "name": "germ_m109g_default"
+      }
+    },
+    {
+      "vehicle": "germ_marder_1a1",
+      "ammo_type": {
+        "name": "germ_marder_1a1_default"
+      }
+    },
+    {
+      "vehicle": "germ_marder_1a3",
+      "ammo_type": {
+        "name": "germ_marder_1a3_default"
+      }
+    },
+    {
+      "vehicle": "germ_marder_df_105",
+      "ammo_type": {
+        "name": "germ_marder_df_105_default"
+      }
+    },
+    {
+      "vehicle": "germ_mkpz_m47",
+      "ammo_type": {
+        "name": "germ_mkpz_m47_default"
+      }
+    },
+    {
+      "vehicle": "germ_mkpz_m48a2c",
+      "ammo_type": {
+        "name": "germ_mkpz_m48a2c_default"
+      }
+    },
+    {
+      "vehicle": "germ_mkpz_m48a2ga2",
+      "ammo_type": {
+        "name": "germ_mkpz_m48a2ga2_default"
+      }
+    },
+    {
+      "vehicle": "germ_mkpz_super_m48",
+      "ammo_type": {
+        "name": "germ_mkpz_super_m48_default"
+      }
+    },
+    {
+      "vehicle": "germ_nbfz_VI",
+      "ammo_type": {
+        "name": "germ_nbfz_VI_default"
+      }
+    },
+    {
+      "vehicle": "germ_panther_II",
+      "ammo_type": {
+        "name": "germ_panther_II_default"
+      }
+    },
+    {
+      "vehicle": "germ_panther_II_tutorial",
+      "ammo_type": {
+        "name": "germ_panther_II_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerbefelhswagen_IV_ausf_J",
+      "ammo_type": {
+        "name": "germ_panzerbefelhswagen_IV_ausf_J_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerbefelhswagen_jagdpanther",
+      "ammo_type": {
+        "name": "germ_panzerbefelhswagen_jagdpanther_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerbefelhswagen_VI_P",
+      "ammo_type": {
+        "name": "germ_panzerbefelhswagen_VI_P_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerjager_1",
+      "ammo_type": {
+        "name": "germ_panzerjager_1_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerjager_nashorn",
+      "ammo_type": {
+        "name": "germ_panzerjager_nashorn_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerjager_panther",
+      "ammo_type": {
+        "name": "germ_panzerjager_panther_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerjager_tiger",
+      "ammo_type": {
+        "name": "germ_panzerjager_tiger_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerjager_tiger_P_elefant",
+      "ammo_type": {
+        "name": "germ_panzerjager_tiger_P_elefant_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerjager_tiger_P_ferdinand",
+      "ammo_type": {
+        "name": "germ_panzerjager_tiger_P_ferdinand_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerwerfer_42",
+      "ammo_type": {
+        "name": "germ_panzerwerfer_42_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerzug_bp_44_locomotive",
+      "ammo_type": {
+        "name": "germ_panzerzug_bp_44_locomotive_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerzug_bp_44_wagon_a",
+      "ammo_type": {
+        "name": "germ_panzerzug_bp_44_wagon_a_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerzug_bp_44_wagon_b",
+      "ammo_type": {
+        "name": "germ_panzerzug_bp_44_wagon_b_default"
+      }
+    },
+    {
+      "vehicle": "germ_panzerzug_bp_44_wagon_c",
+      "ammo_type": {
+        "name": "germ_panzerzug_bp_44_wagon_c_default"
+      }
+    },
+    {
+      "vehicle": "germ_pz_IV_L70",
+      "ammo_type": {
+        "name": "germ_pz_IV_L70_default"
+      }
+    },
+    {
+      "vehicle": "germ_pz_IV_L70_A",
+      "ammo_type": {
+        "name": "germ_pz_IV_L70_A_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_35t",
+      "ammo_type": {
+        "name": "germ_pzkpfw_35t_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_35t_romania_mare",
+      "ammo_type": {
+        "name": "germ_pzkpfw_35t_romania_mare_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_38t_Aufklarungspanzer",
+      "ammo_type": {
+        "name": "germ_pzkpfw_38t_Aufklarungspanzer_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_38t_ausf_A",
+      "ammo_type": {
+        "name": "germ_pzkpfw_38t_ausf_A_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_38t_ausf_F",
+      "ammo_type": {
+        "name": "germ_pzkpfw_38t_ausf_F_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_38t_Marder_III",
+      "ammo_type": {
+        "name": "germ_pzkpfw_38t_Marder_III_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_38t_Marder_III_ausf_H",
+      "ammo_type": {
+        "name": "germ_pzkpfw_38t_Marder_III_ausf_H_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_38t_na",
+      "ammo_type": {
+        "name": "germ_pzkpfw_38t_na_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_e_100",
+      "ammo_type": {
+        "name": "germ_pzkpfw_e_100_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_II_ausf_C",
+      "ammo_type": {
+        "name": "germ_pzkpfw_II_ausf_C_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_II_ausf_C_DAK",
+      "ammo_type": {
+        "name": "germ_pzkpfw_II_ausf_C_DAK_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_II_ausf_C_td",
+      "ammo_type": {
+        "name": "germ_pzkpfw_II_ausf_C_td_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_II_ausf_F",
+      "ammo_type": {
+        "name": "germ_pzkpfw_II_ausf_F_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_II_ausf_H",
+      "ammo_type": {
+        "name": "germ_pzkpfw_II_ausf_H_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_B",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_B_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_E",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_E_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_F",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_F_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_J",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_J_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_J_L42",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_J_L42_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_J_td",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_J_td_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_L",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_L_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_iii_ausf_l_tutorial",
+      "ammo_type": {
+        "name": "germ_pzkpfw_iii_ausf_l_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_M",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_M_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_III_ausf_N",
+      "ammo_type": {
+        "name": "germ_pzkpfw_III_ausf_N_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_C",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_C_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_E",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_E_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_F",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_F_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_F2",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_F2_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_G",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_G_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_H",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_H_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_IV_ausf_J",
+      "ammo_type": {
+        "name": "germ_pzkpfw_IV_ausf_J_default"
+      }
+    },
+    {
+      "vehicle": "germ_radpanzer_90",
+      "ammo_type": {
+        "name": "germ_radpanzer_90_default"
+      }
+    },
+    {
+      "vehicle": "germ_raketenjagdpanzer_2",
+      "ammo_type": {
+        "name": "germ_raketenjagdpanzer_2_default"
+      }
+    },
+    {
+      "vehicle": "germ_raketenjagdpanzer_2_hot",
+      "ammo_type": {
+        "name": "germ_raketenjagdpanzer_2_hot_default"
+      }
+    },
+    {
+      "vehicle": "germ_ru251",
+      "ammo_type": {
+        "name": "germ_ru251_default"
+      }
+    },
+    {
+      "vehicle": "germ_schutzenpanzer_puma",
+      "ammo_type": {
+        "name": "germ_schutzenpanzer_puma_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_221_s_pz_b_41",
+      "ammo_type": {
+        "name": "germ_sdkfz_221_s_pz_b_41_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_222",
+      "ammo_type": {
+        "name": "germ_sdkfz_222_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_234_1",
+      "ammo_type": {
+        "name": "germ_sdkfz_234_1_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_234_2",
+      "ammo_type": {
+        "name": "germ_sdkfz_234_2_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_234_2_td",
+      "ammo_type": {
+        "name": "germ_sdkfz_234_2_td_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_234_3",
+      "ammo_type": {
+        "name": "germ_sdkfz_234_3_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_234_4",
+      "ammo_type": {
+        "name": "germ_sdkfz_234_4_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_251_10",
+      "ammo_type": {
+        "name": "germ_sdkfz_251_10_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_251_21",
+      "ammo_type": {
+        "name": "germ_sdkfz_251_21_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_251_22",
+      "ammo_type": {
+        "name": "germ_sdkfz_251_22_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_251_9",
+      "ammo_type": {
+        "name": "germ_sdkfz_251_9_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_6_2_flak36",
+      "ammo_type": {
+        "name": "germ_sdkfz_6_2_flak36_default"
+      }
+    },
+    {
+      "vehicle": "germ_sdkfz_9_flak37",
+      "ammo_type": {
+        "name": "germ_sdkfz_9_flak37_default"
+      }
+    },
+    {
+      "vehicle": "germ_sk105_a2",
+      "ammo_type": {
+        "name": "germ_sk105_a2_default"
+      }
+    },
+    {
+      "vehicle": "germ_spz_12_3",
+      "ammo_type": {
+        "name": "germ_spz_12_3_default"
+      }
+    },
+    {
+      "vehicle": "germ_spz_oerlikon_raketenautomat",
+      "ammo_type": {
+        "name": "germ_spz_oerlikon_raketenautomat_default"
+      }
+    },
+    {
+      "vehicle": "germ_stug_III_ausf_A",
+      "ammo_type": {
+        "name": "germ_stug_III_ausf_A_default"
+      }
+    },
+    {
+      "vehicle": "germ_stug_III_ausf_F",
+      "ammo_type": {
+        "name": "germ_stug_III_ausf_F_default"
+      }
+    },
+    {
+      "vehicle": "germ_stug_III_ausf_G",
+      "ammo_type": {
+        "name": "germ_stug_III_ausf_G_default"
+      }
+    },
+    {
+      "vehicle": "germ_stuh_III_ausf_G",
+      "ammo_type": {
+        "name": "germ_stuh_III_ausf_G_default"
+      }
+    },
+    {
+      "vehicle": "germ_sturmmorser_sturmtiger",
+      "ammo_type": {
+        "name": "germ_sturmmorser_sturmtiger_default"
+      }
+    },
+    {
+      "vehicle": "germ_sturmmorser_sturmtiger_event",
+      "ammo_type": {
+        "name": "germ_sturmmorser_sturmtiger_event_default"
+      }
+    },
+    {
+      "vehicle": "germ_sturmpanzer_II",
+      "ammo_type": {
+        "name": "germ_sturmpanzer_II_default"
+      }
+    },
+    {
+      "vehicle": "germ_sturmpanzer_IV_brummbar",
+      "ammo_type": {
+        "name": "germ_sturmpanzer_IV_brummbar_default"
+      }
+    },
+    {
+      "vehicle": "germ_t_34_747",
+      "ammo_type": {
+        "name": "germ_t_34_747_default"
+      }
+    },
+    {
+      "vehicle": "germ_th_800_bismark",
+      "ammo_type": {
+        "name": "germ_th_800_bismark_default"
+      }
+    },
+    {
+      "vehicle": "germ_thyssen_henschel_tam",
+      "ammo_type": {
+        "name": "germ_thyssen_henschel_tam_default"
+      }
+    },
+    {
+      "vehicle": "germ_thyssen_henschel_tam_2c",
+      "ammo_type": {
+        "name": "germ_thyssen_henschel_tam_2c_default"
+      }
+    },
+    {
+      "vehicle": "germ_thyssen_henschel_tam_2ip",
+      "ammo_type": {
+        "name": "germ_thyssen_henschel_tam_2ip_default"
+      }
+    },
+    {
+      "vehicle": "germ_truck_sdkfz_6_2_tent",
+      "ammo_type": {
+        "name": "germ_truck_sdkfz_6_2_tent_default"
+      }
+    },
+    {
+      "vehicle": "germ_vilkas",
+      "ammo_type": {
+        "name": "germ_vilkas_default"
+      }
+    },
+    {
+      "vehicle": "germ_vk_3002m",
+      "ammo_type": {
+        "name": "germ_vk_3002m_default"
+      }
+    },
+    {
+      "vehicle": "germ_vsw_flak_41",
+      "ammo_type": {
+        "name": "germ_vsw_flak_41_default"
+      }
+    },
+    {
+      "vehicle": "germ_vt_1_2",
+      "ammo_type": {
+        "name": "germ_vt_1_2_default"
+      }
+    },
+    {
+      "vehicle": "germ_waffentrager_krupp_steyr",
+      "ammo_type": {
+        "name": "germ_waffentrager_krupp_steyr_default"
+      }
+    },
+    {
+      "vehicle": "germ_wiesel_1_mk20",
+      "ammo_type": {
+        "name": "germ_wiesel_1_mk20_default"
+      }
+    },
+    {
+      "vehicle": "germ_wiesel_1_tow",
+      "ammo_type": {
+        "name": "germ_wiesel_1_tow_default"
+      }
+    },
+    {
+      "vehicle": "germ_wiesel_2_adwc",
+      "ammo_type": {
+        "name": "germ_wiesel_2_adwc_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_Maus",
+      "ammo_type": {
+        "name": "germ_pzkpfw_Maus_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_V_ausf_a_panther",
+      "ammo_type": {
+        "name": "germ_pzkpfw_V_ausf_a_panther_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_V_ausf_d_panther",
+      "ammo_type": {
+        "name": "germ_pzkpfw_V_ausf_d_panther_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_v_ausf_d_panther_tutoria",
+      "ammo_type": {
+        "name": "germ_pzkpfw_v_ausf_d_panther_tutoria_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_V_ausf_f_panther",
+      "ammo_type": {
+        "name": "germ_pzkpfw_V_ausf_f_panther_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_V_ausf_g_panther",
+      "ammo_type": {
+        "name": "germ_pzkpfw_V_ausf_g_panther_default"
+      }
+    },
+    {
+      "vehicle": "germ_pzkpfw_V_ersatz_m10",
+      "ammo_type": {
+        "name": "germ_pzkpfw_V_ersatz_m10_default"
+      }
+    },
+    {
+      "vehicle": "germ_sfl_Aufkl\u00c3\u00a4rer",
+      "ammo_type": {
+        "name": "germ_sfl_Aufkl\u00c3\u00a4rer_default"
+      }
+    },
+    {
+      "vehicle": "germ_wiesel_1_tow_g",
+      "ammo_type": {
+        "name": "germ_wiesel_1_tow_g_default"
+      }
+    },
+    {
+      "vehicle": "germ_wiesel_2_mktg",
+      "ammo_type": {
+        "name": "germ_wiesel_2_mktg_default"
+      }
+    },
+    {
+      "vehicle": "germ_9a33bm3",
+      "ammo_type": {
+        "name": "germ_9a33bm3_default"
+      }
+    },
+    {
+      "vehicle": "germ_schutzenpanzer_puma_vjtf",
+      "ammo_type": {
+        "name": "germ_schutzenpanzer_puma_vjtf_default"
+      }
+    }
+  ],
+  "USSR": [
+    {
+      "vehicle": "ussr_2s1",
+      "ammo_type": {
+        "name": "ussr_2s1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_2s25",
+      "ammo_type": {
+        "name": "ussr_2s25_default"
+      }
+    },
+    {
+      "vehicle": "ussr_2s25m",
+      "ammo_type": {
+        "name": "ussr_2s25m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_2s38",
+      "ammo_type": {
+        "name": "ussr_2s38_default"
+      }
+    },
+    {
+      "vehicle": "ussr_2s3m",
+      "ammo_type": {
+        "name": "ussr_2s3m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_9a35_m2",
+      "ammo_type": {
+        "name": "ussr_9a35_m2_default"
+      }
+    },
+    {
+      "vehicle": "ussr_9p149",
+      "ammo_type": {
+        "name": "ussr_9p149_default"
+      }
+    },
+    {
+      "vehicle": "ussr_9p157",
+      "ammo_type": {
+        "name": "ussr_9p157_default"
+      }
+    },
+    {
+      "vehicle": "ussr_a_12_mk_2_matilda_2A_F96",
+      "ammo_type": {
+        "name": "ussr_a_12_mk_2_matilda_2A_F96_default"
+      }
+    },
+    {
+      "vehicle": "ussr_apc_bmp_1",
+      "ammo_type": {
+        "name": "ussr_bmp_1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_apc_btr_152",
+      "ammo_type": {
+        "name": "ussr_btr_152_default"
+      }
+    },
+    {
+      "vehicle": "ussr_asu_57",
+      "ammo_type": {
+        "name": "ussr_asu_57_default"
+      }
+    },
+    {
+      "vehicle": "ussr_asu_85",
+      "ammo_type": {
+        "name": "ussr_asu_85_default"
+      }
+    },
+    {
+      "vehicle": "ussr_at_gun_53k",
+      "ammo_type": {
+        "name": "ussr_at_gun_53k_default"
+      }
+    },
+    {
+      "vehicle": "ussr_at_spg_9",
+      "ammo_type": {
+        "name": "ussr_at_spg_9_default"
+      }
+    },
+    {
+      "vehicle": "ussr_ba_11",
+      "ammo_type": {
+        "name": "ussr_ba_11_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bm_13n",
+      "ammo_type": {
+        "name": "ussr_bm_13n_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bm_31_12",
+      "ammo_type": {
+        "name": "ussr_bm_31_12_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bm_8_24",
+      "ammo_type": {
+        "name": "ussr_bm_8_24_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bmd_4",
+      "ammo_type": {
+        "name": "ussr_bmd_4_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bmp_1",
+      "ammo_type": {
+        "name": "ussr_bmp_1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bmp_2",
+      "ammo_type": {
+        "name": "ussr_bmp_2_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bmp_2m",
+      "ammo_type": {
+        "name": "ussr_bmp_2m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bmp_3",
+      "ammo_type": {
+        "name": "ussr_bmp_3_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bt_5",
+      "ammo_type": {
+        "name": "ussr_bt_5_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bt_7_1937",
+      "ammo_type": {
+        "name": "ussr_bt_7_1937_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bt_7_1937_td",
+      "ammo_type": {
+        "name": "ussr_bt_7_1937_td_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bt_7_m",
+      "ammo_type": {
+        "name": "ussr_bt_7_m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_bt_7a_f32",
+      "ammo_type": {
+        "name": "ussr_bt_7a_f32_default"
+      }
+    },
+    {
+      "vehicle": "ussr_btr_152a",
+      "ammo_type": {
+        "name": "ussr_btr_152a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_btr_152d",
+      "ammo_type": {
+        "name": "ussr_btr_152d_default"
+      }
+    },
+    {
+      "vehicle": "ussr_btr_80a",
+      "ammo_type": {
+        "name": "ussr_btr_80a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_btr_zd",
+      "ammo_type": {
+        "name": "ussr_btr_zd_default"
+      }
+    },
+    {
+      "vehicle": "ussr_freight_car_1926_a",
+      "ammo_type": {
+        "name": "ussr_freight_car_1926_a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_gaz_4m",
+      "ammo_type": {
+        "name": "ussr_gaz_4m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_qaz_dshk",
+      "ammo_type": {
+        "name": "ussr_qaz_dshk_default"
+      }
+    },
+    {
+      "vehicle": "ussr_gaz_dshk",
+      "ammo_type": {
+        "name": "ussr_gaz_dshk_default"
+      }
+    },
+    {
+      "vehicle": "ussr_gaz_mm_72k",
+      "ammo_type": {
+        "name": "ussr_gaz_mm_72k_default"
+      }
+    },
+    {
+      "vehicle": "ussr_gaz_mm_72k_without_crew",
+      "ammo_type": {
+        "name": "ussr_gaz_mm_72k_without_crew_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_1",
+      "ammo_type": {
+        "name": "ussr_is_1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_2_1943",
+      "ammo_type": {
+        "name": "ussr_is_2_1943_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_2_1944",
+      "ammo_type": {
+        "name": "ussr_is_2_1944_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_2_1944_321",
+      "ammo_type": {
+        "name": "ussr_is_2_1944_321_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_2_1944_revenge",
+      "ammo_type": {
+        "name": "ussr_is_2_1944_revenge_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_3",
+      "ammo_type": {
+        "name": "ussr_is_3_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_4m",
+      "ammo_type": {
+        "name": "ussr_is_4m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_4m_tutorial",
+      "ammo_type": {
+        "name": "ussr_is_4m_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_6",
+      "ammo_type": {
+        "name": "ussr_is_6_default"
+      }
+    },
+    {
+      "vehicle": "ussr_is_7",
+      "ammo_type": {
+        "name": "ussr_is_7_default"
+      }
+    },
+    {
+      "vehicle": "ussr_isu_122",
+      "ammo_type": {
+        "name": "ussr_isu_122_default"
+      }
+    },
+    {
+      "vehicle": "ussr_isu_122s",
+      "ammo_type": {
+        "name": "ussr_isu_122s_default"
+      }
+    },
+    {
+      "vehicle": "ussr_isu_152",
+      "ammo_type": {
+        "name": "ussr_isu_152_default"
+      }
+    },
+    {
+      "vehicle": "ussr_it_1",
+      "ammo_type": {
+        "name": "ussr_it_1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_122",
+      "ammo_type": {
+        "name": "ussr_kv_122_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_1_L_11",
+      "ammo_type": {
+        "name": "ussr_kv_1_L_11_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_1_zis_5",
+      "ammo_type": {
+        "name": "ussr_kv_1_zis_5_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_1e",
+      "ammo_type": {
+        "name": "ussr_kv_1e_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_1s",
+      "ammo_type": {
+        "name": "ussr_kv_1s_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_220",
+      "ammo_type": {
+        "name": "ussr_kv_220_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_2_1939",
+      "ammo_type": {
+        "name": "ussr_kv_2_1939_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_2_1940",
+      "ammo_type": {
+        "name": "ussr_kv_2_1940_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_2_zis_6",
+      "ammo_type": {
+        "name": "ussr_kv_2_zis_6_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_85",
+      "ammo_type": {
+        "name": "ussr_kv_85_default"
+      }
+    },
+    {
+      "vehicle": "ussr_m3c",
+      "ammo_type": {
+        "name": "ussr_m3c_default"
+      }
+    },
+    {
+      "vehicle": "ussr_m4a2_76w_sherman",
+      "ammo_type": {
+        "name": "ussr_m4a2_76w_sherman_default"
+      }
+    },
+    {
+      "vehicle": "ussr_m53_59",
+      "ammo_type": {
+        "name": "ussr_m53_59_default"
+      }
+    },
+    {
+      "vehicle": "ussr_m551_football",
+      "ammo_type": {
+        "name": "ussr_m551_football_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_120",
+      "ammo_type": {
+        "name": "ussr_object_120_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_248",
+      "ammo_type": {
+        "name": "ussr_object_248_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_268",
+      "ammo_type": {
+        "name": "ussr_object_268_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_279",
+      "ammo_type": {
+        "name": "ussr_object_279_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_292",
+      "ammo_type": {
+        "name": "ussr_object_292_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_435",
+      "ammo_type": {
+        "name": "ussr_object_435_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_685",
+      "ammo_type": {
+        "name": "ussr_object_685_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_775",
+      "ammo_type": {
+        "name": "ussr_object_775_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_906",
+      "ammo_type": {
+        "name": "ussr_object_906_default"
+      }
+    },
+    {
+      "vehicle": "ussr_pantsyr_s1",
+      "ammo_type": {
+        "name": "ussr_pantsyr_s1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_pt_76_57",
+      "ammo_type": {
+        "name": "ussr_pt_76_57_default"
+      }
+    },
+    {
+      "vehicle": "ussr_pt_76b",
+      "ammo_type": {
+        "name": "ussr_pt_76b_default"
+      }
+    },
+    {
+      "vehicle": "ussr_pzkpfw_III_ausf_J_L42",
+      "ammo_type": {
+        "name": "ussr_pzkpfw_III_ausf_J_L42_default"
+      }
+    },
+    {
+      "vehicle": "ussr_pzkpfw_V",
+      "ammo_type": {
+        "name": "ussr_pzkpfw_V_default"
+      }
+    },
+    {
+      "vehicle": "ussr_rbt_5",
+      "ammo_type": {
+        "name": "ussr_rbt_5_default"
+      }
+    },
+    {
+      "vehicle": "ussr_smk",
+      "ammo_type": {
+        "name": "ussr_smk_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_100_1945",
+      "ammo_type": {
+        "name": "ussr_su_100_1945_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_100p",
+      "ammo_type": {
+        "name": "ussr_su_100p_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_100Y",
+      "ammo_type": {
+        "name": "ussr_su_100Y_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_122",
+      "ammo_type": {
+        "name": "ussr_su_122_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_122_54",
+      "ammo_type": {
+        "name": "ussr_su_122_54_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_122P",
+      "ammo_type": {
+        "name": "ussr_su_122P_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_152",
+      "ammo_type": {
+        "name": "ussr_su_152_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_57",
+      "ammo_type": {
+        "name": "ussr_su_57_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_57b",
+      "ammo_type": {
+        "name": "ussr_su_57b_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_5_1",
+      "ammo_type": {
+        "name": "ussr_su_5_1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_76d",
+      "ammo_type": {
+        "name": "ussr_su_76d_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_76m_1943",
+      "ammo_type": {
+        "name": "ussr_su_76m_1943_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_76m_5st_kav_corps",
+      "ammo_type": {
+        "name": "ussr_su_76m_5st_kav_corps_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_85_1943",
+      "ammo_type": {
+        "name": "ussr_su_85_1943_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_85a",
+      "ammo_type": {
+        "name": "ussr_su_85a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_su_85m",
+      "ammo_type": {
+        "name": "ussr_su_85m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_10a",
+      "ammo_type": {
+        "name": "ussr_t_10a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_10m",
+      "ammo_type": {
+        "name": "ussr_t_10m_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_126sp",
+      "ammo_type": {
+        "name": "ussr_t_126sp_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_26_1940",
+      "ammo_type": {
+        "name": "ussr_t_26_1940_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_26_1940_1st_GvTBr",
+      "ammo_type": {
+        "name": "ussr_t_26_1940_1st_GvTBr_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_26_4",
+      "ammo_type": {
+        "name": "ussr_t_26_4_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_26E",
+      "ammo_type": {
+        "name": "ussr_t_26E_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_28",
+      "ammo_type": {
+        "name": "ussr_t_28_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_28_1938",
+      "ammo_type": {
+        "name": "ussr_t_28_1938_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_28E",
+      "ammo_type": {
+        "name": "ussr_t_28E_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_100",
+      "ammo_type": {
+        "name": "ussr_t_34_100_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_1940_1_11",
+      "ammo_type": {
+        "name": "ussr_t_34_1940_1_11_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_1941",
+      "ammo_type": {
+        "name": "ussr_t_34_1941_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_1941_57",
+      "ammo_type": {
+        "name": "ussr_t_34_1941_57_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_1941_cast_turret",
+      "ammo_type": {
+        "name": "ussr_t_34_1941_cast_turret_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_1941_|_11",
+      "ammo_type": {
+        "name": "ussr_t_34_1941_|_11_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_1942",
+      "ammo_type": {
+        "name": "ussr_t_34_1942_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_57_1943",
+      "ammo_type": {
+        "name": "ussr_t_34_57_1943_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_85_d_5t",
+      "ammo_type": {
+        "name": "ussr_t_34_85_d_5t_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_85_zis_53",
+      "ammo_type": {
+        "name": "ussr_t_34_85_zis_53_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34_85E",
+      "ammo_type": {
+        "name": "ussr_t_34_85E_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34E",
+      "ammo_type": {
+        "name": "ussr_t_34E_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_34E_STZ",
+      "ammo_type": {
+        "name": "ussr_t_34E_STZ_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_35",
+      "ammo_type": {
+        "name": "ussr_t_35_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_44",
+      "ammo_type": {
+        "name": "ussr_t_44_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_44_100",
+      "ammo_type": {
+        "name": "ussr_t_44_100_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_44_122",
+      "ammo_type": {
+        "name": "ussr_t_44_122_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_50",
+      "ammo_type": {
+        "name": "ussr_t_50_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_50_for_tutorial",
+      "ammo_type": {
+        "name": "ussr_t_50_for_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_54_1947",
+      "ammo_type": {
+        "name": "ussr_t_54_1947_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_54_1949",
+      "ammo_type": {
+        "name": "ussr_t_54_1949_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_54_1951",
+      "ammo_type": {
+        "name": "ussr_t_54_1951_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_55_am",
+      "ammo_type": {
+        "name": "ussr_t_55_am_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_55_amd_1",
+      "ammo_type": {
+        "name": "ussr_t_55_amd_1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_55a",
+      "ammo_type": {
+        "name": "ussr_t_55a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_60_1941",
+      "ammo_type": {
+        "name": "ussr_t_60_1941_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_62",
+      "ammo_type": {
+        "name": "ussr_t_62_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_62m1",
+      "ammo_type": {
+        "name": "ussr_t_62m1_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_64_b_1984",
+      "ammo_type": {
+        "name": "ussr_t_64_b_1984_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_64a_1971",
+      "ammo_type": {
+        "name": "ussr_t_64a_1971_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_70_1942",
+      "ammo_type": {
+        "name": "ussr_t_70_1942_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72a",
+      "ammo_type": {
+        "name": "ussr_t_72a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72av_turms",
+      "ammo_type": {
+        "name": "ussr_t_72av_turms_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72b",
+      "ammo_type": {
+        "name": "ussr_t_72b_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72b3_2011",
+      "ammo_type": {
+        "name": "ussr_t_72b3_2011_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72b3_2017_race",
+      "ammo_type": {
+        "name": "ussr_t_72b3_2017_race_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72b_1989",
+      "ammo_type": {
+        "name": "ussr_t_72b_1989_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_72m2_moderna",
+      "ammo_type": {
+        "name": "ussr_t_72m2_moderna_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80",
+      "ammo_type": {
+        "name": "ussr_t_80_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80b",
+      "ammo_type": {
+        "name": "ussr_t_80b_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80bvm",
+      "ammo_type": {
+        "name": "ussr_t_80bvm_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80u",
+      "ammo_type": {
+        "name": "ussr_t_80u_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80u_race",
+      "ammo_type": {
+        "name": "ussr_t_80u_race_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80u_yt_cup_2019",
+      "ammo_type": {
+        "name": "ussr_t_80u_yt_cup_2019_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80ud",
+      "ammo_type": {
+        "name": "ussr_t_80ud_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80uk",
+      "ammo_type": {
+        "name": "ussr_t_80uk_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_80um2",
+      "ammo_type": {
+        "name": "ussr_t_80um2_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_90a",
+      "ammo_type": {
+        "name": "ussr_t_90a_default"
+      }
+    },
+    {
+      "vehicle": "ussr_t_90m_2020",
+      "ammo_type": {
+        "name": "ussr_t_90m_2020_default"
+      }
+    },
+    {
+      "vehicle": "ussr_to_55",
+      "ammo_type": {
+        "name": "ussr_to_55_default"
+      }
+    },
+    {
+      "vehicle": "ussr_truck_gaz_aaa",
+      "ammo_type": {
+        "name": "ussr_truck_gaz_aaa_default"
+      }
+    },
+    {
+      "vehicle": "ussr_type_62",
+      "ammo_type": {
+        "name": "ussr_type_62_default"
+      }
+    },
+    {
+      "vehicle": "ussr_type_65_aa",
+      "ammo_type": {
+        "name": "ussr_type_65_aa_default"
+      }
+    },
+    {
+      "vehicle": "ussr_valentine_mk_9",
+      "ammo_type": {
+        "name": "ussr_valentine_mk_9_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zis_12_94KM_1945",
+      "ammo_type": {
+        "name": "ussr_zis_12_94KM_1945_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zis_30",
+      "ammo_type": {
+        "name": "ussr_zis_30_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zis_43",
+      "ammo_type": {
+        "name": "ussr_zis_43_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zprk_2s6",
+      "ammo_type": {
+        "name": "ussr_zprk_2s6_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_23_4",
+      "ammo_type": {
+        "name": "ussr_zsu_23_4_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_23_4m4",
+      "ammo_type": {
+        "name": "ussr_zsu_23_4m4_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_29k",
+      "ammo_type": {
+        "name": "ussr_zsu_29k_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_37",
+      "ammo_type": {
+        "name": "ussr_zsu_37_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_37_2",
+      "ammo_type": {
+        "name": "ussr_zsu_37_2_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_57_2",
+      "ammo_type": {
+        "name": "ussr_zsu_57_2_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zut_37",
+      "ammo_type": {
+        "name": "ussr_zut_37_default"
+      }
+    },
+    {
+      "vehicle": "ussr_kv_7_u13",
+      "ammo_type": {
+        "name": "ussr_kv_7_u13_default"
+      }
+    },
+    {
+      "vehicle": "ussr_object_140",
+      "ammo_type": {
+        "name": "ussr_object_140_default"
+      }
+    },
+    {
+      "vehicle": "ussr_9a33bm3",
+      "ammo_type": {
+        "name": "ussr_9a33bm3_default"
+      }
+    },
+    {
+      "vehicle": "ussr_zsu_23_4m2",
+      "ammo_type": {
+        "name": "ussr_zsu_23_4m2_default"
+      }
+    }
+  ],
+  "Great Britain": [
+    {
+      "vehicle": "uk_17_pdr_m10_achilles",
+      "ammo_type": {
+        "name": "uk_17_pdr_m10_achilles_default"
+      }
+    },
+    {
+      "vehicle": "uk_17_pdr_m10_achilles_norfolk_yeom",
+      "ammo_type": {
+        "name": "uk_17_pdr_m10_achilles_norfolk_yeom_default"
+      }
+    },
+    {
+      "vehicle": "uk_3_inch_gun_carrier",
+      "ammo_type": {
+        "name": "uk_3_inch_gun_carrier_default"
+      }
+    },
+    {
+      "vehicle": "uk_a17_mk_1_tetrarch",
+      "ammo_type": {
+        "name": "uk_a17_mk_1_tetrarch_default"
+      }
+    },
+    {
+      "vehicle": "uk_a1e1_independent",
+      "ammo_type": {
+        "name": "uk_a1e1_independent_default"
+      }
+    },
+    {
+      "vehicle": "uk_a27m_cromwell_1",
+      "ammo_type": {
+        "name": "uk_a27m_cromwell_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_a27m_cromwell_5",
+      "ammo_type": {
+        "name": "uk_a27m_cromwell_5_default"
+      }
+    },
+    {
+      "vehicle": "uk_a27m_cromwell_5_rp3",
+      "ammo_type": {
+        "name": "uk_a27m_cromwell_5_rp3_default"
+      }
+    },
+    {
+      "vehicle": "uk_a30_challenger",
+      "ammo_type": {
+        "name": "uk_a30_challenger_default"
+      }
+    },
+    {
+      "vehicle": "uk_a30_sp_avenger",
+      "ammo_type": {
+        "name": "uk_a30_sp_avenger_default"
+      }
+    },
+    {
+      "vehicle": "uk_a39_tortoise",
+      "ammo_type": {
+        "name": "uk_a39_tortoise_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_12_mk_2_matilda_2",
+      "ammo_type": {
+        "name": "uk_a_12_mk_2_matilda_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_13_mk1",
+      "ammo_type": {
+        "name": "uk_a_13_mk1_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_13_mk1_3rd_rtr",
+      "ammo_type": {
+        "name": "uk_a_13_mk1_3rd_rtr_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_13_mk2",
+      "ammo_type": {
+        "name": "uk_a_13_mk2_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_13_mk2_1939",
+      "ammo_type": {
+        "name": "uk_a_13_mk2_1939_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_22_mk_1_churchill_1941",
+      "ammo_type": {
+        "name": "uk_a_22_mk_1_churchill_1941_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_22b_mk_3_churchill_1942",
+      "ammo_type": {
+        "name": "uk_a_22b_mk_3_churchill_1942_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_22f_mk_7_churchill_1944",
+      "ammo_type": {
+        "name": "uk_a_22f_mk_7_churchill_1944_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_22f_mk_7_churchill_crocodile",
+      "ammo_type": {
+        "name": "uk_a_22f_mk_7_churchill_crocodile_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_22f_mk_7_churchill_crocodile_trai",
+      "ammo_type": {
+        "name": "uk_a_22f_mk_7_churchill_crocodile_trai_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_33_excelsior",
+      "ammo_type": {
+        "name": "uk_a_33_excelsior_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_34_comet",
+      "ammo_type": {
+        "name": "uk_a_34_comet_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_34_comet_iron_duke",
+      "ammo_type": {
+        "name": "uk_a_34_comet_iron_duke_default"
+      }
+    },
+    {
+      "vehicle": "uk_a_43_black_prince",
+      "ammo_type": {
+        "name": "uk_a_43_black_prince_default"
+      }
+    },
+    {
+      "vehicle": "uk_ac1_sentinel",
+      "ammo_type": {
+        "name": "uk_ac1_sentinel_default"
+      }
+    },
+    {
+      "vehicle": "uk_ac4_thunderbolt",
+      "ammo_type": {
+        "name": "uk_ac4_thunderbolt_default"
+      }
+    },
+    {
+      "vehicle": "uk_adats_m113a3",
+      "ammo_type": {
+        "name": "uk_adats_m113a3_default"
+      }
+    },
+    {
+      "vehicle": "uk_alecto_mk_1",
+      "ammo_type": {
+        "name": "uk_alecto_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_armored_car_aec_mk_2",
+      "ammo_type": {
+        "name": "uk_armored_car_aec_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_armored_car_mk_2_aa",
+      "ammo_type": {
+        "name": "uk_armored_car_mk_2_aa_default"
+      }
+    },
+    {
+      "vehicle": "uk_at_gun_qf17pounder",
+      "ammo_type": {
+        "name": "uk_at_gun_qf17pounder_default"
+      }
+    },
+    {
+      "vehicle": "uk_at_gun_qf6pounder",
+      "ammo_type": {
+        "name": "uk_at_gun_qf6pounder_default"
+      }
+    },
+    {
+      "vehicle": "uk_bosvark",
+      "ammo_type": {
+        "name": "uk_bosvark_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_action_x",
+      "ammo_type": {
+        "name": "uk_centurion_action_x_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_1",
+      "ammo_type": {
+        "name": "uk_centurion_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_10",
+      "ammo_type": {
+        "name": "uk_centurion_mk_10_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_2",
+      "ammo_type": {
+        "name": "uk_centurion_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_3",
+      "ammo_type": {
+        "name": "uk_centurion_mk_3_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_3_ss11",
+      "ammo_type": {
+        "name": "uk_centurion_mk_3_ss11_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_5_avre_era",
+      "ammo_type": {
+        "name": "uk_centurion_mk_5_avre_era_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_mk_5_raac",
+      "ammo_type": {
+        "name": "uk_centurion_mk_5_raac_default"
+      }
+    },
+    {
+      "vehicle": "uk_centurion_shot_kal_d",
+      "ammo_type": {
+        "name": "uk_centurion_shot_kal_d_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_1",
+      "ammo_type": {
+        "name": "uk_challenger_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_1_mk_3_gulf",
+      "ammo_type": {
+        "name": "uk_challenger_1_mk_3_gulf_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_2_bn",
+      "ammo_type": {
+        "name": "uk_challenger_2_bn_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_2_dorchester",
+      "ammo_type": {
+        "name": "uk_challenger_2_dorchester_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_2_lep",
+      "ammo_type": {
+        "name": "uk_challenger_2_lep_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_2_megatron",
+      "ammo_type": {
+        "name": "uk_challenger_2_megatron_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_2_tes",
+      "ammo_type": {
+        "name": "uk_challenger_2_tes_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_2e",
+      "ammo_type": {
+        "name": "uk_challenger_2e_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_II",
+      "ammo_type": {
+        "name": "uk_challenger_II_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_II_yt_cup_2019",
+      "ammo_type": {
+        "name": "uk_challenger_II_yt_cup_2019_default"
+      }
+    },
+    {
+      "vehicle": "uk_challenger_mk_3",
+      "ammo_type": {
+        "name": "uk_challenger_mk_3_default"
+      }
+    },
+    {
+      "vehicle": "uk_charioteer_mk_7",
+      "ammo_type": {
+        "name": "uk_charioteer_mk_7_default"
+      }
+    },
+    {
+      "vehicle": "uk_chieftain_marksman",
+      "ammo_type": {
+        "name": "uk_chieftain_marksman_default"
+      }
+    },
+    {
+      "vehicle": "uk_chieftain_mk_10",
+      "ammo_type": {
+        "name": "uk_chieftain_mk_10_default"
+      }
+    },
+    {
+      "vehicle": "uk_chieftain_mk_3",
+      "ammo_type": {
+        "name": "uk_chieftain_mk_3_default"
+      }
+    },
+    {
+      "vehicle": "uk_chieftain_mk_5",
+      "ammo_type": {
+        "name": "uk_chieftain_mk_5_default"
+      }
+    },
+    {
+      "vehicle": "uk_churchill_na75",
+      "ammo_type": {
+        "name": "uk_churchill_na75_default"
+      }
+    },
+    {
+      "vehicle": "uk_concept3_ngac",
+      "ammo_type": {
+        "name": "uk_concept3_ngac_default"
+      }
+    },
+    {
+      "vehicle": "uk_conqueror_mk_2",
+      "ammo_type": {
+        "name": "uk_conqueror_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_crusader_aa_mk_1",
+      "ammo_type": {
+        "name": "uk_crusader_aa_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_crusader_aa_mk_2",
+      "ammo_type": {
+        "name": "uk_crusader_aa_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_crusader_aa_mk_2_tutorial",
+      "ammo_type": {
+        "name": "uk_crusader_aa_mk_2_tutorial_default"
+      }
+    },
+    {
+      "vehicle": "uk_crusader_mk_2",
+      "ammo_type": {
+        "name": "uk_crusader_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_crusader_mk_2_the_saint",
+      "ammo_type": {
+        "name": "uk_crusader_mk_2_the_saint_default"
+      }
+    },
+    {
+      "vehicle": "uk_crusader_mk_3",
+      "ammo_type": {
+        "name": "uk_crusader_mk_3_default"
+      }
+    },
+    {
+      "vehicle": "uk_daimler_mk_2",
+      "ammo_type": {
+        "name": "uk_daimler_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_eland_90_mk_7",
+      "ammo_type": {
+        "name": "uk_eland_90_mk_7_default"
+      }
+    },
+    {
+      "vehicle": "uk_falcon",
+      "ammo_type": {
+        "name": "uk_falcon_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv102_striker",
+      "ammo_type": {
+        "name": "uk_fv102_striker_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv221_caernarvon",
+      "ammo_type": {
+        "name": "uk_fv221_caernarvon_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv4004_conway",
+      "ammo_type": {
+        "name": "uk_fv4004_conway_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv4005",
+      "ammo_type": {
+        "name": "uk_fv4005_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv4202",
+      "ammo_type": {
+        "name": "uk_fv4202_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv438_swingfire",
+      "ammo_type": {
+        "name": "uk_fv438_swingfire_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv510_isv",
+      "ammo_type": {
+        "name": "uk_fv510_isv_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv721_fox",
+      "ammo_type": {
+        "name": "uk_fv721_fox_default"
+      }
+    },
+    {
+      "vehicle": "uk_g6_spg",
+      "ammo_type": {
+        "name": "uk_g6_spg_default"
+      }
+    },
+    {
+      "vehicle": "uk_khalid",
+      "ammo_type": {
+        "name": "uk_khalid_default"
+      }
+    },
+    {
+      "vehicle": "uk_m109a1",
+      "ammo_type": {
+        "name": "uk_m109a1_default"
+      }
+    },
+    {
+      "vehicle": "uk_m3_stuart",
+      "ammo_type": {
+        "name": "uk_m3_stuart_default"
+      }
+    },
+    {
+      "vehicle": "uk_m3a1_stuart",
+      "ammo_type": {
+        "name": "uk_m3a1_stuart_default"
+      }
+    },
+    {
+      "vehicle": "uk_marmon_herrington_mk_6_2pdr",
+      "ammo_type": {
+        "name": "uk_marmon_herrington_mk_6_2pdr_default"
+      }
+    },
+    {
+      "vehicle": "uk_marmon_herrington_mk_6_6pdr",
+      "ammo_type": {
+        "name": "uk_marmon_herrington_mk_6_6pdr_default"
+      }
+    },
+    {
+      "vehicle": "uk_matilda_hedgehog",
+      "ammo_type": {
+        "name": "uk_matilda_hedgehog_default"
+      }
+    },
+    {
+      "vehicle": "uk_mk1_grant",
+      "ammo_type": {
+        "name": "uk_mk1_grant_default"
+      }
+    },
+    {
+      "vehicle": "uk_olifant_mk_1a",
+      "ammo_type": {
+        "name": "uk_olifant_mk_1a_default"
+      }
+    },
+    {
+      "vehicle": "uk_olifant_mk_2",
+      "ammo_type": {
+        "name": "uk_olifant_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_ram_90mm_aa",
+      "ammo_type": {
+        "name": "uk_ram_90mm_aa_default"
+      }
+    },
+    {
+      "vehicle": "uk_ratel_20",
+      "ammo_type": {
+        "name": "uk_ratel_20_default"
+      }
+    },
+    {
+      "vehicle": "uk_ratel_90",
+      "ammo_type": {
+        "name": "uk_ratel_90_default"
+      }
+    },
+    {
+      "vehicle": "uk_ratel_zt3",
+      "ammo_type": {
+        "name": "uk_ratel_zt3_default"
+      }
+    },
+    {
+      "vehicle": "uk_rooikat_105_td",
+      "ammo_type": {
+        "name": "uk_rooikat_105_td_default"
+      }
+    },
+    {
+      "vehicle": "uk_rooikat_76",
+      "ammo_type": {
+        "name": "uk_rooikat_76_default"
+      }
+    },
+    {
+      "vehicle": "uk_rooikat_mttd",
+      "ammo_type": {
+        "name": "uk_rooikat_mttd_default"
+      }
+    },
+    {
+      "vehicle": "uk_rooikat_za_35",
+      "ammo_type": {
+        "name": "uk_rooikat_za_35_default"
+      }
+    },
+    {
+      "vehicle": "uk_sarc_mk4_a",
+      "ammo_type": {
+        "name": "uk_sarc_mk4_a_default"
+      }
+    },
+    {
+      "vehicle": "uk_sherman_ic_firefly",
+      "ammo_type": {
+        "name": "uk_sherman_ic_firefly_default"
+      }
+    },
+    {
+      "vehicle": "uk_sherman_II",
+      "ammo_type": {
+        "name": "uk_sherman_II_default"
+      }
+    },
+    {
+      "vehicle": "uk_sherman_vc_firefly",
+      "ammo_type": {
+        "name": "uk_sherman_vc_firefly_default"
+      }
+    },
+    {
+      "vehicle": "uk_skink_aa",
+      "ammo_type": {
+        "name": "uk_skink_aa_default"
+      }
+    },
+    {
+      "vehicle": "uk_sp_17_pdr_valentine",
+      "ammo_type": {
+        "name": "uk_sp_17_pdr_valentine_default"
+      }
+    },
+    {
+      "vehicle": "uk_stormer_hvm",
+      "ammo_type": {
+        "name": "uk_stormer_hvm_default"
+      }
+    },
+    {
+      "vehicle": "uk_t17e2",
+      "ammo_type": {
+        "name": "uk_t17e2_default"
+      }
+    },
+    {
+      "vehicle": "uk_t_90s_bheeshma",
+      "ammo_type": {
+        "name": "uk_t_90s_bheeshma_default"
+      }
+    },
+    {
+      "vehicle": "uk_tog_2",
+      "ammo_type": {
+        "name": "uk_tog_2_default"
+      }
+    },
+    {
+      "vehicle": "uk_truck_us6_studebaker_board",
+      "ammo_type": {
+        "name": "uk_truck_us6_studebaker_board_default"
+      }
+    },
+    {
+      "vehicle": "uk_truck_us6_studebaker_tent",
+      "ammo_type": {
+        "name": "uk_truck_us6_studebaker_tent_default"
+      }
+    },
+    {
+      "vehicle": "uk_ttd",
+      "ammo_type": {
+        "name": "uk_ttd_default"
+      }
+    },
+    {
+      "vehicle": "uk_valentine_mk_1",
+      "ammo_type": {
+        "name": "uk_valentine_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_valentine_mk_11",
+      "ammo_type": {
+        "name": "uk_valentine_mk_11_default"
+      }
+    },
+    {
+      "vehicle": "uk_valentine_mk_9",
+      "ammo_type": {
+        "name": "uk_valentine_mk_9_default"
+      }
+    },
+    {
+      "vehicle": "uk_vfm_5",
+      "ammo_type": {
+        "name": "uk_vfm_5_default"
+      }
+    },
+    {
+      "vehicle": "uk_vickers_mbt_mk_1",
+      "ammo_type": {
+        "name": "uk_vickers_mbt_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_vickers_mbt_mk_3",
+      "ammo_type": {
+        "name": "uk_vickers_mbt_mk_3_default"
+      }
+    },
+    {
+      "vehicle": "uk_vickers_mk7",
+      "ammo_type": {
+        "name": "uk_vickers_mk7_default"
+      }
+    },
+    {
+      "vehicle": "uk_vickers_mk_11",
+      "ammo_type": {
+        "name": "uk_vickers_mk_11_default"
+      }
+    },
+    {
+      "vehicle": "uk_vickers_mk_6_aa_mk_1",
+      "ammo_type": {
+        "name": "uk_vickers_mk_6_aa_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "uk_vijayanta",
+      "ammo_type": {
+        "name": "uk_vijayanta_default"
+      }
+    },
+    {
+      "vehicle": "uk_ystervark_spaa",
+      "ammo_type": {
+        "name": "uk_ystervark_spaa_default"
+      }
+    },
+    {
+      "vehicle": "uk_fv107_scimitar",
+      "ammo_type": {
+        "name": "uk_fv107_scimitar_default"
+      }
+    },
+    {
+      "vehicle": "uk_stormer_air_defence",
+      "ammo_type": {
+        "name": "uk_stormer_air_defence_default"
+      }
+    }
+  ],
+  "Japan": [
+    {
+      "vehicle": "jp_at_37mm_type_1",
+      "ammo_type": {
+        "name": "jp_at_37mm_type_1_default"
+      }
+    },
+    {
+      "vehicle": "jp_at_47mm_type_1",
+      "ammo_type": {
+        "name": "jp_at_47mm_type_1_default"
+      }
+    },
+    {
+      "vehicle": "jp_halftrack_m16",
+      "ammo_type": {
+        "name": "jp_halftrack_m16_default"
+      }
+    },
+    {
+      "vehicle": "jp_hiro_sha",
+      "ammo_type": {
+        "name": "jp_hiro_sha_default"
+      }
+    },
+    {
+      "vehicle": "jp_m19",
+      "ammo_type": {
+        "name": "jp_m19_default"
+      }
+    },
+    {
+      "vehicle": "jp_m24_chaffee",
+      "ammo_type": {
+        "name": "jp_m24_chaffee_default"
+      }
+    },
+    {
+      "vehicle": "jp_m36b2_jgsdf",
+      "ammo_type": {
+        "name": "jp_m36b2_jgsdf_default"
+      }
+    },
+    {
+      "vehicle": "jp_m41_walker_bulldog",
+      "ammo_type": {
+        "name": "jp_m41_walker_bulldog_default"
+      }
+    },
+    {
+      "vehicle": "jp_m42_duster",
+      "ammo_type": {
+        "name": "jp_m42_duster_default"
+      }
+    },
+    {
+      "vehicle": "jp_m47_patton_II",
+      "ammo_type": {
+        "name": "jp_m47_patton_II_default"
+      }
+    },
+    {
+      "vehicle": "jp_m4a3e8_76w_sherman",
+      "ammo_type": {
+        "name": "jp_m4a3e8_76w_sherman_default"
+      }
+    },
+    {
+      "vehicle": "jp_navy_120mm_spg",
+      "ammo_type": {
+        "name": "jp_navy_120mm_spg_default"
+      }
+    },
+    {
+      "vehicle": "jp_pzkpfw_VI_ausf_e_tiger",
+      "ammo_type": {
+        "name": "jp_pzkpfw_VI_ausf_e_tiger_default"
+      }
+    },
+    {
+      "vehicle": "jp_st_a1",
+      "ammo_type": {
+        "name": "jp_st_a1_default"
+      }
+    },
+    {
+      "vehicle": "jp_st_a2",
+      "ammo_type": {
+        "name": "jp_st_a2_default"
+      }
+    },
+    {
+      "vehicle": "jp_st_a3",
+      "ammo_type": {
+        "name": "jp_st_a3_default"
+      }
+    },
+    {
+      "vehicle": "jp_st_b1",
+      "ammo_type": {
+        "name": "jp_st_b1_default"
+      }
+    },
+    {
+      "vehicle": "jp_sub_i_ii_20mm",
+      "ammo_type": {
+        "name": "jp_sub_i_ii_20mm_default"
+      }
+    },
+    {
+      "vehicle": "jp_tkx_prot",
+      "ammo_type": {
+        "name": "jp_tkx_prot_default"
+      }
+    },
+    {
+      "vehicle": "jp_truck_type_94_isuzu",
+      "ammo_type": {
+        "name": "jp_truck_type_94_isuzu_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_10",
+      "ammo_type": {
+        "name": "jp_type_10_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_10_prototype",
+      "ammo_type": {
+        "name": "jp_type_10_prototype_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_16",
+      "ammo_type": {
+        "name": "jp_type_16_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_16_mcv_prot",
+      "ammo_type": {
+        "name": "jp_type_16_mcv_prot_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_16_mod",
+      "ammo_type": {
+        "name": "jp_type_16_mod_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_1_chi_he",
+      "ammo_type": {
+        "name": "jp_type_1_chi_he_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_1_chi_he_5th_regiment",
+      "ammo_type": {
+        "name": "jp_type_1_chi_he_5th_regiment_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_2_ho_i",
+      "ammo_type": {
+        "name": "jp_type_2_ho_i_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_2_ka_mi",
+      "ammo_type": {
+        "name": "jp_type_2_ka_mi_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_3_chi_nu",
+      "ammo_type": {
+        "name": "jp_type_3_chi_nu_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_3_chi_nu_75cm_type_5",
+      "ammo_type": {
+        "name": "jp_type_3_chi_nu_75cm_type_5_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_3_ho_ni_I",
+      "ammo_type": {
+        "name": "jp_type_3_ho_ni_I_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_3_ho_ni_III",
+      "ammo_type": {
+        "name": "jp_type_3_ho_ni_III_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_3_ka_chi",
+      "ammo_type": {
+        "name": "jp_type_3_ka_chi_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_4_chi_to",
+      "ammo_type": {
+        "name": "jp_type_4_chi_to_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_4_chi_to_late",
+      "ammo_type": {
+        "name": "jp_type_4_chi_to_late_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_4_ho_ro",
+      "ammo_type": {
+        "name": "jp_type_4_ho_ro_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_5_chi_ri",
+      "ammo_type": {
+        "name": "jp_type_5_chi_ri_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_5_ho_ri_production",
+      "ammo_type": {
+        "name": "jp_type_5_ho_ri_production_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_5_ho_ri_prototype",
+      "ammo_type": {
+        "name": "jp_type_5_ho_ri_prototype_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_5_na_to",
+      "ammo_type": {
+        "name": "jp_type_5_na_to_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_60_atm",
+      "ammo_type": {
+        "name": "jp_type_60_atm_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_60_sprg",
+      "ammo_type": {
+        "name": "jp_type_60_sprg_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_61",
+      "ammo_type": {
+        "name": "jp_type_61_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_74",
+      "ammo_type": {
+        "name": "jp_type_74_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_74_c",
+      "ammo_type": {
+        "name": "jp_type_74_c_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_74_f",
+      "ammo_type": {
+        "name": "jp_type_74_f_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_74_mod_g_kai",
+      "ammo_type": {
+        "name": "jp_type_74_mod_g_kai_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_75",
+      "ammo_type": {
+        "name": "jp_type_75_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_75_mlrs",
+      "ammo_type": {
+        "name": "jp_type_75_mlrs_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_81_tansam",
+      "ammo_type": {
+        "name": "jp_type_81_tansam_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_87",
+      "ammo_type": {
+        "name": "jp_type_87_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_87_rcv",
+      "ammo_type": {
+        "name": "jp_type_87_rcv_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_87_rcv_prot",
+      "ammo_type": {
+        "name": "jp_type_87_rcv_prot_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_89",
+      "ammo_type": {
+        "name": "jp_type_89_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_89b_i_go_otsu",
+      "ammo_type": {
+        "name": "jp_type_89b_i_go_otsu_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_90",
+      "ammo_type": {
+        "name": "jp_type_90_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_90b",
+      "ammo_type": {
+        "name": "jp_type_90b_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_90b_camo",
+      "ammo_type": {
+        "name": "jp_type_90b_camo_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_93",
+      "ammo_type": {
+        "name": "jp_type_93_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_94",
+      "ammo_type": {
+        "name": "jp_type_94_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_95_ha_go",
+      "ammo_type": {
+        "name": "jp_type_95_ha_go_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_95_ha_go_commander",
+      "ammo_type": {
+        "name": "jp_type_95_ha_go_commander_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_95_heavy",
+      "ammo_type": {
+        "name": "jp_type_95_heavy_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_95_so_ki",
+      "ammo_type": {
+        "name": "jp_type_95_so_ki_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_97_chi_ha",
+      "ammo_type": {
+        "name": "jp_type_97_chi_ha_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_97_chi_ha_12cm",
+      "ammo_type": {
+        "name": "jp_type_97_chi_ha_12cm_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_97_kai",
+      "ammo_type": {
+        "name": "jp_type_97_kai_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_97_kai_td",
+      "ammo_type": {
+        "name": "jp_type_97_kai_td_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_98_ke_ni",
+      "ammo_type": {
+        "name": "jp_type_98_ke_ni_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_98_ta_se",
+      "ammo_type": {
+        "name": "jp_type_98_ta_se_default"
+      }
+    },
+    {
+      "vehicle": "jp_type_99",
+      "ammo_type": {
+        "name": "jp_type_99_default"
+      }
+    },
+    {
+      "vehicle": "jp_icv_ifv_prototype",
+      "ammo_type": {
+        "name": "jp_icv_ifv_prototype_default"
+      }
+    },
+    {
+      "vehicle": "jp_icv_prototype",
+      "ammo_type": {
+        "name": "jp_icv_prototype_default"
+      }
+    }
+  ],
+  "Italy": [
+    {
+      "vehicle": "it_2s1",
+      "ammo_type": {
+        "name": "it_2s1_default"
+      }
+    },
+    {
+      "vehicle": "it_39m_csaba",
+      "ammo_type": {
+        "name": "it_39m_csaba_default"
+      }
+    },
+    {
+      "vehicle": "it_40_43m_zrinyi_2",
+      "ammo_type": {
+        "name": "it_40_43m_zrinyi_2_default"
+      }
+    },
+    {
+      "vehicle": "it_40m_turan_1",
+      "ammo_type": {
+        "name": "it_40m_turan_1_default"
+      }
+    },
+    {
+      "vehicle": "it_41m_turan_2",
+      "ammo_type": {
+        "name": "it_41m_turan_2_default"
+      }
+    },
+    {
+      "vehicle": "it_43m_turan_3",
+      "ammo_type": {
+        "name": "it_43m_turan_3_default"
+      }
+    },
+    {
+      "vehicle": "it_44m_zrinyi_1",
+      "ammo_type": {
+        "name": "it_44m_zrinyi_1_default"
+      }
+    },
+    {
+      "vehicle": "it_ab_41",
+      "ammo_type": {
+        "name": "it_ab_41_default"
+      }
+    },
+    {
+      "vehicle": "it_ab_43",
+      "ammo_type": {
+        "name": "it_ab_43_default"
+      }
+    },
+    {
+      "vehicle": "it_ariete_amv_pt1",
+      "ammo_type": {
+        "name": "it_ariete_amv_pt1_default"
+      }
+    },
+    {
+      "vehicle": "it_as_42_47",
+      "ammo_type": {
+        "name": "it_as_42_47_default"
+      }
+    },
+    {
+      "vehicle": "it_as_42_metropolitana",
+      "ammo_type": {
+        "name": "it_as_42_metropolitana_default"
+      }
+    },
+    {
+      "vehicle": "it_aubl_74_60_70m",
+      "ammo_type": {
+        "name": "it_aubl_74_60_70m_default"
+      }
+    },
+    {
+      "vehicle": "it_b1_centauro",
+      "ammo_type": {
+        "name": "it_b1_centauro_default"
+      }
+    },
+    {
+      "vehicle": "it_b1_centauro_romor",
+      "ammo_type": {
+        "name": "it_b1_centauro_romor_default"
+      }
+    },
+    {
+      "vehicle": "it_breda_52_autocannone",
+      "ammo_type": {
+        "name": "it_breda_52_autocannone_default"
+      }
+    },
+    {
+      "vehicle": "it_btr_80a_hungary",
+      "ammo_type": {
+        "name": "it_btr_80a_hungary_default"
+      }
+    },
+    {
+      "vehicle": "it_c13_t90",
+      "ammo_type": {
+        "name": "it_c13_t90_default"
+      }
+    },
+    {
+      "vehicle": "it_c1_ariete",
+      "ammo_type": {
+        "name": "it_c1_ariete_default"
+      }
+    },
+    {
+      "vehicle": "it_c1_ariete_preserie",
+      "ammo_type": {
+        "name": "it_c1_ariete_preserie_default"
+      }
+    },
+    {
+      "vehicle": "it_c1_ariete_pso",
+      "ammo_type": {
+        "name": "it_c1_ariete_pso_default"
+      }
+    },
+    {
+      "vehicle": "it_centauro_mgs_120",
+      "ammo_type": {
+        "name": "it_centauro_mgs_120_default"
+      }
+    },
+    {
+      "vehicle": "it_centauro_rgo_120",
+      "ammo_type": {
+        "name": "it_centauro_rgo_120_default"
+      }
+    },
+    {
+      "vehicle": "it_dardo_vcc",
+      "ammo_type": {
+        "name": "it_dardo_vcc_default"
+      }
+    },
+    {
+      "vehicle": "it_fiat_6614_106sr",
+      "ammo_type": {
+        "name": "it_fiat_6614_106sr_default"
+      }
+    },
+    {
+      "vehicle": "it_fiat_6616_cockerill",
+      "ammo_type": {
+        "name": "it_fiat_6616_cockerill_default"
+      }
+    },
+    {
+      "vehicle": "it_fiat_cm52",
+      "ammo_type": {
+        "name": "it_fiat_cm52_default"
+      }
+    },
+    {
+      "vehicle": "it_freccia",
+      "ammo_type": {
+        "name": "it_freccia_default"
+      }
+    },
+    {
+      "vehicle": "it_kf_41",
+      "ammo_type": {
+        "name": "it_kf_41_default"
+      }
+    },
+    {
+      "vehicle": "it_13_cc",
+      "ammo_type": {
+        "name": "it_13_cc_default"
+      }
+    },
+    {
+      "vehicle": "it_16",
+      "ammo_type": {
+        "name": "it_16_default"
+      }
+    },
+    {
+      "vehicle": "it_16_leone",
+      "ammo_type": {
+        "name": "it_16_leone_default"
+      }
+    },
+    {
+      "vehicle": "it_lancia3ro_100",
+      "ammo_type": {
+        "name": "it_lancia3ro_100_default"
+      }
+    },
+    {
+      "vehicle": "it_leopard_1a5",
+      "ammo_type": {
+        "name": "it_leopard_1a5_default"
+      }
+    },
+    {
+      "vehicle": "it_leopard_2a4",
+      "ammo_type": {
+        "name": "it_leopard_2a4_default"
+      }
+    },
+    {
+      "vehicle": "it_leopard_bofors",
+      "ammo_type": {
+        "name": "it_leopard_bofors_default"
+      }
+    },
+    {
+      "vehicle": "it_m109g",
+      "ammo_type": {
+        "name": "it_m109g_default"
+      }
+    },
+    {
+      "vehicle": "it_m113a1_tow",
+      "ammo_type": {
+        "name": "it_m113a1_tow_default"
+      }
+    },
+    {
+      "vehicle": "it_m11_39",
+      "ammo_type": {
+        "name": "it_m11_39_default"
+      }
+    },
+    {
+      "vehicle": "it_m13_40_serie_1",
+      "ammo_type": {
+        "name": "it_m13_40_serie_1_default"
+      }
+    },
+    {
+      "vehicle": "it_m13_40_serie_2",
+      "ammo_type": {
+        "name": "it_m13_40_serie_2_default"
+      }
+    },
+    {
+      "vehicle": "it_m13_40_serie_3",
+      "ammo_type": {
+        "name": "it_m13_40_serie_3_default"
+      }
+    },
+    {
+      "vehicle": "it_m14_41",
+      "ammo_type": {
+        "name": "it_m14_41_default"
+      }
+    },
+    {
+      "vehicle": "it_m14_41_47_40",
+      "ammo_type": {
+        "name": "it_m14_41_47_40_default"
+      }
+    },
+    {
+      "vehicle": "it_m15_42",
+      "ammo_type": {
+        "name": "it_m15_42_default"
+      }
+    },
+    {
+      "vehicle": "it_m15_42_contraereo",
+      "ammo_type": {
+        "name": "it_m15_42_contraereo_default"
+      }
+    },
+    {
+      "vehicle": "it_m18_hellcat",
+      "ammo_type": {
+        "name": "it_m18_hellcat_default"
+      }
+    },
+    {
+      "vehicle": "it_m24_chaffee",
+      "ammo_type": {
+        "name": "it_m24_chaffee_default"
+      }
+    },
+    {
+      "vehicle": "it_m26_ariete",
+      "ammo_type": {
+        "name": "it_m26_ariete_default"
+      }
+    },
+    {
+      "vehicle": "it_m26a1_pershing",
+      "ammo_type": {
+        "name": "it_m26a1_pershing_default"
+      }
+    },
+    {
+      "vehicle": "it_m36b1",
+      "ammo_type": {
+        "name": "it_m36b1_default"
+      }
+    },
+    {
+      "vehicle": "it_m3a3_stuart",
+      "ammo_type": {
+        "name": "it_m3a3_stuart_default"
+      }
+    },
+    {
+      "vehicle": "it_m47_105",
+      "ammo_type": {
+        "name": "it_m47_105_default"
+      }
+    },
+    {
+      "vehicle": "it_m4a4_sherman",
+      "ammo_type": {
+        "name": "it_m4a4_sherman_default"
+      }
+    },
+    {
+      "vehicle": "it_m60a1_ariete",
+      "ammo_type": {
+        "name": "it_m60a1_ariete_default"
+      }
+    },
+    {
+      "vehicle": "it_of_40_mk_1",
+      "ammo_type": {
+        "name": "it_of_40_mk_1_default"
+      }
+    },
+    {
+      "vehicle": "it_of_40_mk_2a",
+      "ammo_type": {
+        "name": "it_of_40_mk_2a_default"
+      }
+    },
+    {
+      "vehicle": "it_of_40_mtca",
+      "ammo_type": {
+        "name": "it_of_40_mtca_default"
+      }
+    },
+    {
+      "vehicle": "it_oto_r3_106sr",
+      "ammo_type": {
+        "name": "it_oto_r3_106sr_default"
+      }
+    },
+    {
+      "vehicle": "it_oto_r3_t20_fa",
+      "ammo_type": {
+        "name": "it_oto_r3_t20_fa_default"
+      }
+    },
+    {
+      "vehicle": "it_otobreda_sidam_25",
+      "ammo_type": {
+        "name": "it_otobreda_sidam_25_default"
+      }
+    },
+    {
+      "vehicle": "it_otobreda_sidam_25_mistral",
+      "ammo_type": {
+        "name": "it_otobreda_sidam_25_mistral_default"
+      }
+    },
+    {
+      "vehicle": "it_otomatic",
+      "ammo_type": {
+        "name": "it_otomatic_default"
+      }
+    },
+    {
+      "vehicle": "it_p_26_40",
+      "ammo_type": {
+        "name": "it_p_26_40_default"
+      }
+    },
+    {
+      "vehicle": "it_p_40",
+      "ammo_type": {
+        "name": "it_p_40_default"
+      }
+    },
+    {
+      "vehicle": "it_pzkpfw_III_ausf_N",
+      "ammo_type": {
+        "name": "it_pzkpfw_III_ausf_N_default"
+      }
+    },
+    {
+      "vehicle": "it_pzkpfw_IV_ausf_G",
+      "ammo_type": {
+        "name": "it_pzkpfw_IV_ausf_G_default"
+      }
+    },
+    {
+      "vehicle": "it_pzkpfw_VI_ausf_e_tiger",
+      "ammo_type": {
+        "name": "it_pzkpfw_VI_ausf_e_tiger_default"
+      }
+    },
+    {
+      "vehicle": "it_sahariano",
+      "ammo_type": {
+        "name": "it_sahariano_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_breda_501",
+      "ammo_type": {
+        "name": "it_semovente_breda_501_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_140",
+      "ammo_type": {
+        "name": "it_semovente_140_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m41_75_18",
+      "ammo_type": {
+        "name": "it_semovente_m41_75_18_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m41_75_32",
+      "ammo_type": {
+        "name": "it_semovente_m41_75_32_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m41m_90",
+      "ammo_type": {
+        "name": "it_semovente_m41m_90_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m42_75_34",
+      "ammo_type": {
+        "name": "it_semovente_m42_75_34_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m43_105",
+      "ammo_type": {
+        "name": "it_semovente_m43_105_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m43_105_leoncello",
+      "ammo_type": {
+        "name": "it_semovente_m43_105_leoncello_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m43_75_34",
+      "ammo_type": {
+        "name": "it_semovente_m43_75_34_default"
+      }
+    },
+    {
+      "vehicle": "it_semovente_m43_75_46",
+      "ammo_type": {
+        "name": "it_semovente_m43_75_46_default"
+      }
+    },
+    {
+      "vehicle": "it_sherman_75_37",
+      "ammo_type": {
+        "name": "it_sherman_75_37_default"
+      }
+    },
+    {
+      "vehicle": "it_sherman_vc_firefly",
+      "ammo_type": {
+        "name": "it_sherman_vc_firefly_default"
+      }
+    },
+    {
+      "vehicle": "it_sherman_VII",
+      "ammo_type": {
+        "name": "it_sherman_VII_default"
+      }
+    },
+    {
+      "vehicle": "it_stug_III_ausf_G",
+      "ammo_type": {
+        "name": "it_stug_III_ausf_G_default"
+      }
+    },
+    {
+      "vehicle": "it_t_72m1",
+      "ammo_type": {
+        "name": "it_t_72m1_default"
+      }
+    },
+    {
+      "vehicle": "it_toldi_II_a",
+      "ammo_type": {
+        "name": "it_toldi_II_a_default"
+      }
+    },
+    {
+      "vehicle": "it_vbc_pt2",
+      "ammo_type": {
+        "name": "it_vbc_pt2_default"
+      }
+    },
+    {
+      "vehicle": "it_vcc_80_hitfist_30",
+      "ammo_type": {
+        "name": "it_vcc_80_hitfist_30_default"
+      }
+    },
+    {
+      "vehicle": "it_vcc_80_hitfist_60",
+      "ammo_type": {
+        "name": "it_vcc_80_hitfist_60_default"
+      }
+    },
+    {
+      "vehicle": "it_vrcc_centauro",
+      "ammo_type": {
+        "name": "it_vrcc_centauro_default"
+      }
+    },
+    {
+      "vehicle": "it_zsu_23_4",
+      "ammo_type": {
+        "name": "it_zsu_23_4_default"
+      }
+    },
+    {
+      "vehicle": "it_zsu_57_2",
+      "ammo_type": {
+        "name": "it_zsu_57_2_default"
+      }
+    },
+    {
+      "vehicle": "it_9a33bm3",
+      "ammo_type": {
+        "name": "it_9a33bm3_default"
+      }
+    }
+  ],
+  "France": [
+    {
+      "vehicle": "fr_amc_34",
+      "ammo_type": {
+        "name": "fr_amc_34_default"
+      }
+    },
+    {
+      "vehicle": "fr_amc_35",
+      "ammo_type": {
+        "name": "fr_amc_35_default"
+      }
+    },
+    {
+      "vehicle": "fr_amd_35",
+      "ammo_type": {
+        "name": "fr_amd_35_default"
+      }
+    },
+    {
+      "vehicle": "fr_amd_35_sa35",
+      "ammo_type": {
+        "name": "fr_amd_35_sa35_default"
+      }
+    },
+    {
+      "vehicle": "fr_aml_90",
+      "ammo_type": {
+        "name": "fr_aml_90_default"
+      }
+    },
+    {
+      "vehicle": "fr_amr_35_zt3",
+      "ammo_type": {
+        "name": "fr_amr_35_zt3_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_10m_acra",
+      "ammo_type": {
+        "name": "fr_amx_10m_acra_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_10p",
+      "ammo_type": {
+        "name": "fr_amx_10p_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_10rc",
+      "ammo_type": {
+        "name": "fr_amx_10rc_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_75",
+      "ammo_type": {
+        "name": "fr_amx_13_75_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_75_ss11",
+      "ammo_type": {
+        "name": "fr_amx_13_75_ss11_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_90",
+      "ammo_type": {
+        "name": "fr_amx_13_90_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_chaffee",
+      "ammo_type": {
+        "name": "fr_amx_13_chaffee_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_dca_40",
+      "ammo_type": {
+        "name": "fr_amx_13_dca_40_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_fl_11",
+      "ammo_type": {
+        "name": "fr_amx_13_fl_11_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_13_hot",
+      "ammo_type": {
+        "name": "fr_amx_13_hot_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30",
+      "ammo_type": {
+        "name": "fr_amx_30_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_1972",
+      "ammo_type": {
+        "name": "fr_amx_30_1972_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_acra",
+      "ammo_type": {
+        "name": "fr_amx_30_acra_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_auf_1",
+      "ammo_type": {
+        "name": "fr_amx_30_auf_1_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_b2",
+      "ammo_type": {
+        "name": "fr_amx_30_b2_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_b2_brenus",
+      "ammo_type": {
+        "name": "fr_amx_30_b2_brenus_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_dca",
+      "ammo_type": {
+        "name": "fr_amx_30_dca_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_roland",
+      "ammo_type": {
+        "name": "fr_amx_30_roland_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_30_super",
+      "ammo_type": {
+        "name": "fr_amx_30_super_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_32",
+      "ammo_type": {
+        "name": "fr_amx_32_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_32_105",
+      "ammo_type": {
+        "name": "fr_amx_32_105_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_40",
+      "ammo_type": {
+        "name": "fr_amx_40_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_50",
+      "ammo_type": {
+        "name": "fr_amx_50_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_50_1950",
+      "ammo_type": {
+        "name": "fr_amx_50_1950_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_50_foch",
+      "ammo_type": {
+        "name": "fr_amx_50_foch_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_50_surbaisse",
+      "ammo_type": {
+        "name": "fr_amx_50_surbaisse_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_50_surblinde",
+      "ammo_type": {
+        "name": "fr_amx_50_surblinde_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_elc_bis",
+      "ammo_type": {
+        "name": "fr_amx_elc_bis_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_m4",
+      "ammo_type": {
+        "name": "fr_amx_m4_default"
+      }
+    },
+    {
+      "vehicle": "fr_amx_vtt_dca",
+      "ammo_type": {
+        "name": "fr_amx_vtt_dca_default"
+      }
+    },
+    {
+      "vehicle": "fr_arl_44",
+      "ammo_type": {
+        "name": "fr_arl_44_default"
+      }
+    },
+    {
+      "vehicle": "fr_arl_44_acl1",
+      "ammo_type": {
+        "name": "fr_arl_44_acl1_default"
+      }
+    },
+    {
+      "vehicle": "fr_b1_bis",
+      "ammo_type": {
+        "name": "fr_b1_bis_default"
+      }
+    },
+    {
+      "vehicle": "fr_b1_ter",
+      "ammo_type": {
+        "name": "fr_b1_ter_default"
+      }
+    },
+    {
+      "vehicle": "fr_bat_chat_25t",
+      "ammo_type": {
+        "name": "fr_bat_chat_25t_default"
+      }
+    },
+    {
+      "vehicle": "fr_cckw_353_bofors",
+      "ammo_type": {
+        "name": "fr_cckw_353_bofors_default"
+      }
+    },
+    {
+      "vehicle": "fr_char_2c",
+      "ammo_type": {
+        "name": "fr_char_2c_default"
+      }
+    },
+    {
+      "vehicle": "fr_char_2c_bis",
+      "ammo_type": {
+        "name": "fr_char_2c_bis_default"
+      }
+    },
+    {
+      "vehicle": "fr_citroen_kegresse_p4t",
+      "ammo_type": {
+        "name": "fr_citroen_kegresse_p4t_default"
+      }
+    },
+    {
+      "vehicle": "fr_crotale_ng",
+      "ammo_type": {
+        "name": "fr_crotale_ng_default"
+      }
+    },
+    {
+      "vehicle": "fr_crusader_mk_2",
+      "ammo_type": {
+        "name": "fr_crusader_mk_2_default"
+      }
+    },
+    {
+      "vehicle": "fr_fcm_36",
+      "ammo_type": {
+        "name": "fr_fcm_36_default"
+      }
+    },
+    {
+      "vehicle": "fr_hotchkiss_h35",
+      "ammo_type": {
+        "name": "fr_hotchkiss_h35_default"
+      }
+    },
+    {
+      "vehicle": "fr_hotchkiss_h39",
+      "ammo_type": {
+        "name": "fr_hotchkiss_h39_default"
+      }
+    },
+    {
+      "vehicle": "fr_hotchkiss_h39_cambronne",
+      "ammo_type": {
+        "name": "fr_hotchkiss_h39_cambronne_default"
+      }
+    },
+    {
+      "vehicle": "fr_leclerc_azur",
+      "ammo_type": {
+        "name": "fr_leclerc_azur_default"
+      }
+    },
+    {
+      "vehicle": "fr_leclerc_s1",
+      "ammo_type": {
+        "name": "fr_leclerc_s1_default"
+      }
+    },
+    {
+      "vehicle": "fr_leclerc_s2",
+      "ammo_type": {
+        "name": "fr_leclerc_s2_default"
+      }
+    },
+    {
+      "vehicle": "fr_leclerc_sxxi",
+      "ammo_type": {
+        "name": "fr_leclerc_sxxi_default"
+      }
+    },
+    {
+      "vehicle": "fr_lorraine_100",
+      "ammo_type": {
+        "name": "fr_lorraine_100_default"
+      }
+    },
+    {
+      "vehicle": "fr_lorraine_155",
+      "ammo_type": {
+        "name": "fr_lorraine_155_default"
+      }
+    },
+    {
+      "vehicle": "fr_lorraine_371",
+      "ammo_type": {
+        "name": "fr_lorraine_371_default"
+      }
+    },
+    {
+      "vehicle": "fr_lorraine_40t",
+      "ammo_type": {
+        "name": "fr_lorraine_40t_default"
+      }
+    },
+    {
+      "vehicle": "fr_lvt_bofors",
+      "ammo_type": {
+        "name": "fr_lvt_bofors_default"
+      }
+    },
+    {
+      "vehicle": "fr_m10",
+      "ammo_type": {
+        "name": "fr_m10_default"
+      }
+    },
+    {
+      "vehicle": "fr_m26_pershing",
+      "ammo_type": {
+        "name": "fr_m26_pershing_default"
+      }
+    },
+    {
+      "vehicle": "fr_m36b2_cefeo",
+      "ammo_type": {
+        "name": "fr_m36b2_cefeo_default"
+      }
+    },
+    {
+      "vehicle": "fr_m3a3_stuart",
+      "ammo_type": {
+        "name": "fr_m3a3_stuart_default"
+      }
+    },
+    {
+      "vehicle": "fr_m4a1_sherman",
+      "ammo_type": {
+        "name": "fr_m4a1_sherman_default"
+      }
+    },
+    {
+      "vehicle": "fr_m4a1_sherman_fl_10",
+      "ammo_type": {
+        "name": "fr_m4a1_sherman_fl_10_default"
+      }
+    },
+    {
+      "vehicle": "fr_m4a3_105_sherman",
+      "ammo_type": {
+        "name": "fr_m4a3_105_sherman_default"
+      }
+    },
+    {
+      "vehicle": "fr_m4a3e2_sherman_jumbo",
+      "ammo_type": {
+        "name": "fr_m4a3e2_sherman_jumbo_default"
+      }
+    },
+    {
+      "vehicle": "fr_m4a4_cn_75_50",
+      "ammo_type": {
+        "name": "fr_m4a4_cn_75_50_default"
+      }
+    },
+    {
+      "vehicle": "fr_m4a4_sherman",
+      "ammo_type": {
+        "name": "fr_m4a4_sherman_default"
+      }
+    },
+    {
+      "vehicle": "fr_mars_15",
+      "ammo_type": {
+        "name": "fr_mars_15_default"
+      }
+    },
+    {
+      "vehicle": "fr_panhard_ebr_1951",
+      "ammo_type": {
+        "name": "fr_panhard_ebr_1951_default"
+      }
+    },
+    {
+      "vehicle": "fr_panhard_ebr_1954",
+      "ammo_type": {
+        "name": "fr_panhard_ebr_1954_default"
+      }
+    },
+    {
+      "vehicle": "fr_panhard_ebr_1963",
+      "ammo_type": {
+        "name": "fr_panhard_ebr_1963_default"
+      }
+    },
+    {
+      "vehicle": "fr_pzkpfw_V_panther_dauphine",
+      "ammo_type": {
+        "name": "fr_pzkpfw_V_panther_dauphine_default"
+      }
+    },
+    {
+      "vehicle": "fr_renault_d2",
+      "ammo_type": {
+        "name": "fr_renault_d2_default"
+      }
+    },
+    {
+      "vehicle": "fr_renault_r39",
+      "ammo_type": {
+        "name": "fr_renault_r39_default"
+      }
+    },
+    {
+      "vehicle": "fr_sk105_a2",
+      "ammo_type": {
+        "name": "fr_sk105_a2_default"
+      }
+    },
+    {
+      "vehicle": "fr_somua_s35",
+      "ammo_type": {
+        "name": "fr_somua_s35_default"
+      }
+    },
+    {
+      "vehicle": "fr_somua_sau40",
+      "ammo_type": {
+        "name": "fr_somua_sau40_default"
+      }
+    },
+    {
+      "vehicle": "fr_somua_sm",
+      "ammo_type": {
+        "name": "fr_somua_sm_default"
+      }
+    },
+    {
+      "vehicle": "fr_tpk_641_vpc",
+      "ammo_type": {
+        "name": "fr_tpk_641_vpc_default"
+      }
+    },
+    {
+      "vehicle": "fr_vab_santal",
+      "ammo_type": {
+        "name": "fr_vab_santal_default"
+      }
+    },
+    {
+      "vehicle": "fr_vbci2_mct30",
+      "ammo_type": {
+        "name": "fr_vbci2_mct30_default"
+      }
+    },
+    {
+      "vehicle": "fr_vcac_mephisto",
+      "ammo_type": {
+        "name": "fr_vcac_mephisto_default"
+      }
+    },
+    {
+      "vehicle": "fr_leopard_2a6nl",
+      "ammo_type": {
+        "name": "fr_leopard_2a6nl_default"
+      }
+    },
+    {
+      "vehicle": "fr_cv_9035_nl",
+      "ammo_type": {
+        "name": "fr_cv_9035_nl_default"
+      }
+    }
+  ],
+  "Sweden": [
+    {
+      "vehicle": "sw_a_34_comet",
+      "ammo_type": {
+        "name": "sw_a_34_comet_default"
+      }
+    },
+    {
+      "vehicle": "sw_asrad_r",
+      "ammo_type": {
+        "name": "sw_asrad_r_default"
+      }
+    },
+    {
+      "vehicle": "sw_bkan_1c",
+      "ammo_type": {
+        "name": "sw_bkan_1c_default"
+      }
+    },
+    {
+      "vehicle": "sw_bt_42",
+      "ammo_type": {
+        "name": "sw_bt_42_default"
+      }
+    },
+    {
+      "vehicle": "sw_charioteer_mk_7",
+      "ammo_type": {
+        "name": "sw_charioteer_mk_7_default"
+      }
+    },
+    {
+      "vehicle": "sw_crotale_ng",
+      "ammo_type": {
+        "name": "sw_crotale_ng_default"
+      }
+    },
+    {
+      "vehicle": "sw_cv_90105_tml",
+      "ammo_type": {
+        "name": "sw_cv_90105_tml_default"
+      }
+    },
+    {
+      "vehicle": "sw_cv_90120",
+      "ammo_type": {
+        "name": "sw_cv_90120_default"
+      }
+    },
+    {
+      "vehicle": "sw_cv_9030_fin",
+      "ammo_type": {
+        "name": "sw_cv_9030_fin_default"
+      }
+    },
+    {
+      "vehicle": "sw_ikv_103",
+      "ammo_type": {
+        "name": "sw_ikv_103_default"
+      }
+    },
+    {
+      "vehicle": "sw_ikv_72",
+      "ammo_type": {
+        "name": "sw_ikv_72_default"
+      }
+    },
+    {
+      "vehicle": "sw_ikv_73",
+      "ammo_type": {
+        "name": "sw_ikv_73_default"
+      }
+    },
+    {
+      "vehicle": "sw_ikv_91",
+      "ammo_type": {
+        "name": "sw_ikv_91_default"
+      }
+    },
+    {
+      "vehicle": "sw_ikv_91_105",
+      "ammo_type": {
+        "name": "sw_ikv_91_105_default"
+      }
+    },
+    {
+      "vehicle": "sw_itpsv_90",
+      "ammo_type": {
+        "name": "sw_itpsv_90_default"
+      }
+    },
+    {
+      "vehicle": "sw_k9_vidar",
+      "ammo_type": {
+        "name": "sw_k9_vidar_default"
+      }
+    },
+    {
+      "vehicle": "sw_kungstiger",
+      "ammo_type": {
+        "name": "sw_kungstiger_default"
+      }
+    },
+    {
+      "vehicle": "sw_l_62_anti_II",
+      "ammo_type": {
+        "name": "sw_l_62_anti_II_default"
+      }
+    },
+    {
+      "vehicle": "sw_lago_1",
+      "ammo_type": {
+        "name": "sw_lago_1_default"
+      }
+    },
+    {
+      "vehicle": "sw_landsverk_ush_405",
+      "ammo_type": {
+        "name": "sw_landsverk_ush_405_default"
+      }
+    },
+    {
+      "vehicle": "sw_leopard_1a5no",
+      "ammo_type": {
+        "name": "sw_leopard_1a5no_default"
+      }
+    },
+    {
+      "vehicle": "sw_leopard_2a4_fin",
+      "ammo_type": {
+        "name": "sw_leopard_2a4_fin_default"
+      }
+    },
+    {
+      "vehicle": "sw_leopard_2a6nl",
+      "ammo_type": {
+        "name": "sw_leopard_2a6nl_default"
+      }
+    },
+    {
+      "vehicle": "sw_lvkv_42",
+      "ammo_type": {
+        "name": "sw_lvkv_42_default"
+      }
+    },
+    {
+      "vehicle": "sw_lvkv_90c",
+      "ammo_type": {
+        "name": "sw_lvkv_90c_default"
+      }
+    },
+    {
+      "vehicle": "sw_lvrbv_701",
+      "ammo_type": {
+        "name": "sw_lvrbv_701_default"
+      }
+    },
+    {
+      "vehicle": "sw_patria_amv_ctcv_105",
+      "ammo_type": {
+        "name": "sw_patria_amv_ctcv_105_default"
+      }
+    },
+    {
+      "vehicle": "sw_pbil_m40",
+      "ammo_type": {
+        "name": "sw_pbil_m40_default"
+      }
+    },
+    {
+      "vehicle": "sw_pbv_301",
+      "ammo_type": {
+        "name": "sw_pbv_301_default"
+      }
+    },
+    {
+      "vehicle": "sw_pbv_302_bill",
+      "ammo_type": {
+        "name": "sw_pbv_302_bill_default"
+      }
+    },
+    {
+      "vehicle": "sw_pbv_501",
+      "ammo_type": {
+        "name": "sw_pbv_501_default"
+      }
+    },
+    {
+      "vehicle": "sw_pt_76b",
+      "ammo_type": {
+        "name": "sw_pt_76b_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvkv_II",
+      "ammo_type": {
+        "name": "sw_pvkv_II_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvkv_III",
+      "ammo_type": {
+        "name": "sw_pvkv_III_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvkv_iv",
+      "ammo_type": {
+        "name": "sw_pvkv_iv_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvkv_m43_1946",
+      "ammo_type": {
+        "name": "sw_pvkv_m43_1946_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvkv_m43_1946",
+      "ammo_type": {
+        "name": "sw_pvkv_m43_1946_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvkv_m43_1963",
+      "ammo_type": {
+        "name": "sw_pvkv_m43_1963_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvlvv_fm42",
+      "ammo_type": {
+        "name": "sw_pvlvv_fm42_default"
+      }
+    },
+    {
+      "vehicle": "sw_pvrbv_551",
+      "ammo_type": {
+        "name": "sw_pvrbv_551_default"
+      }
+    },
+    {
+      "vehicle": "sw_pzkpfw_IV_ausf_J",
+      "ammo_type": {
+        "name": "sw_pzkpfw_IV_ausf_J_default"
+      }
+    },
+    {
+      "vehicle": "sw_sav_fm48",
+      "ammo_type": {
+        "name": "sw_sav_fm48_default"
+      }
+    },
+    {
+      "vehicle": "sw_sav_m43_1944",
+      "ammo_type": {
+        "name": "sw_sav_m43_1944_default"
+      }
+    },
+    {
+      "vehicle": "sw_sav_m43_1946",
+      "ammo_type": {
+        "name": "sw_sav_m43_1946_default"
+      }
+    },
+    {
+      "vehicle": "sw_sherman_3_4",
+      "ammo_type": {
+        "name": "sw_sherman_3_4_default"
+      }
+    },
+    {
+      "vehicle": "sw_stormpjas_fm43_44",
+      "ammo_type": {
+        "name": "sw_stormpjas_fm43_44_default"
+      }
+    },
+    {
+      "vehicle": "sw_strf_9056",
+      "ammo_type": {
+        "name": "sw_strf_9056_default"
+      }
+    },
+    {
+      "vehicle": "sw_strf_90b",
+      "ammo_type": {
+        "name": "sw_strf_90b_default"
+      }
+    },
+    {
+      "vehicle": "sw_strf_90c",
+      "ammo_type": {
+        "name": "sw_strf_90c_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv121b_christian2",
+      "ammo_type": {
+        "name": "sw_strv121b_christian2_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_101",
+      "ammo_type": {
+        "name": "sw_strv_101_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_103_0",
+      "ammo_type": {
+        "name": "sw_strv_103_0_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_103a",
+      "ammo_type": {
+        "name": "sw_strv_103a_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_103c",
+      "ammo_type": {
+        "name": "sw_strv_103c_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_104",
+      "ammo_type": {
+        "name": "sw_strv_104_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_105",
+      "ammo_type": {
+        "name": "sw_strv_105_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_121",
+      "ammo_type": {
+        "name": "sw_strv_121_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_122",
+      "ammo_type": {
+        "name": "sw_strv_122_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_122b_plss",
+      "ammo_type": {
+        "name": "sw_strv_122b_plss_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_122b_plus",
+      "ammo_type": {
+        "name": "sw_strv_122b_plus_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_74",
+      "ammo_type": {
+        "name": "sw_strv_74_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_81",
+      "ammo_type": {
+        "name": "sw_strv_81_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_81_rb52",
+      "ammo_type": {
+        "name": "sw_strv_81_rb52_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m31",
+      "ammo_type": {
+        "name": "sw_strv_m31_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m38",
+      "ammo_type": {
+        "name": "sw_strv_m38_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m39",
+      "ammo_type": {
+        "name": "sw_strv_m39_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m39_td",
+      "ammo_type": {
+        "name": "sw_strv_m39_td_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m401",
+      "ammo_type": {
+        "name": "sw_strv_m401_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m41_s1",
+      "ammo_type": {
+        "name": "sw_strv_m41_s1_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m41_s2",
+      "ammo_type": {
+        "name": "sw_strv_m41_s2_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m42_delat_torn",
+      "ammo_type": {
+        "name": "sw_strv_m42_delat_torn_default"
+      }
+    },
+    {
+      "vehicle": "sw_strv_m42_eh",
+      "ammo_type": {
+        "name": "sw_strv_m42_eh_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_28",
+      "ammo_type": {
+        "name": "sw_t_28_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_34_1941",
+      "ammo_type": {
+        "name": "sw_t_34_1941_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_34_85_zis_53",
+      "ammo_type": {
+        "name": "sw_t_34_85_zis_53_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_54_1951",
+      "ammo_type": {
+        "name": "sw_t_54_1951_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_55m",
+      "ammo_type": {
+        "name": "sw_t_55m_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_72m1",
+      "ammo_type": {
+        "name": "sw_t_72m1_default"
+      }
+    },
+    {
+      "vehicle": "sw_t_80u",
+      "ammo_type": {
+        "name": "sw_t_80u_default"
+      }
+    },
+    {
+      "vehicle": "sw_tgdgb_m40_lv",
+      "ammo_type": {
+        "name": "sw_tgdgb_m40_lv_default"
+      }
+    },
+    {
+      "vehicle": "sw_udes_33",
+      "ammo_type": {
+        "name": "sw_udes_33_default"
+      }
+    },
+    {
+      "vehicle": "sw_veak_40",
+      "ammo_type": {
+        "name": "sw_veak_40_default"
+      }
+    },
+    {
+      "vehicle": "sw_vickers_mk_e_37",
+      "ammo_type": {
+        "name": "sw_vickers_mk_e_37_default"
+      }
+    },
+    {
+      "vehicle": "sw_vickers_mk_e_45",
+      "ammo_type": {
+        "name": "sw_vickers_mk_e_45_default"
+      }
+    },
+    {
+      "vehicle": "sw_zsu_57_2",
+      "ammo_type": {
+        "name": "sw_zsu_57_2_default"
+      }
+    },
+    {
+      "vehicle": "sw_bmp_2md",
+      "ammo_type": {
+        "name": "sw_bmp_2md_default"
+      }
+    },
+    {
+      "vehicle": "sw_kv_1_1942_fin",
+      "ammo_type": {
+        "name": "sw_kv_1_1942_fin_default"
+      }
+    }
+  ],
+  "Israel": [
+    {
+      "vehicle": "il_magach_5",
+      "ammo_type": {
+        "name": "il_magach_5_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6",
+      "ammo_type": {
+        "name": "il_magach_6_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6_rocket",
+      "ammo_type": {
+        "name": "il_magach_6_rocket_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6a",
+      "ammo_type": {
+        "name": "il_magach_6a_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6b",
+      "ammo_type": {
+        "name": "il_magach_6b_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6b_gal",
+      "ammo_type": {
+        "name": "il_magach_6b_gal_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6b_gal_batash",
+      "ammo_type": {
+        "name": "il_magach_6b_gal_batash_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6c",
+      "ammo_type": {
+        "name": "il_magach_6c_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6m",
+      "ammo_type": {
+        "name": "il_magach_6m_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_6r",
+      "ammo_type": {
+        "name": "il_magach_6r_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_7c",
+      "ammo_type": {
+        "name": "il_magach_7c_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_1b",
+      "ammo_type": {
+        "name": "il_merkava_mk_1b_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_2b_early",
+      "ammo_type": {
+        "name": "il_merkava_mk_2b_early_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_2d",
+      "ammo_type": {
+        "name": "il_merkava_mk_2d_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_3_raam_segol",
+      "ammo_type": {
+        "name": "il_merkava_mk_3_raam_segol_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_3b",
+      "ammo_type": {
+        "name": "il_merkava_mk_3b_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_3c",
+      "ammo_type": {
+        "name": "il_merkava_mk_3c_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_4_lic",
+      "ammo_type": {
+        "name": "il_merkava_mk_4_lic_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_4b",
+      "ammo_type": {
+        "name": "il_merkava_mk_4b_default"
+      }
+    },
+    {
+      "vehicle": "il_merkava_mk_4m",
+      "ammo_type": {
+        "name": "il_merkava_mk_4m_default"
+      }
+    },
+    {
+      "vehicle": "il_mim_72_chaparral",
+      "ammo_type": {
+        "name": "il_mim_72_chaparral_default"
+      }
+    },
+    {
+      "vehicle": "il_ss_11_halftrack",
+      "ammo_type": {
+        "name": "il_ss_11_halftrack_default"
+      }
+    },
+    {
+      "vehicle": "il_tcm_20",
+      "ammo_type": {
+        "name": "il_tcm_20_default"
+      }
+    },
+    {
+      "vehicle": "il_tiran_4",
+      "ammo_type": {
+        "name": "il_tiran_4_default"
+      }
+    },
+    {
+      "vehicle": "il_tiran_4_sh",
+      "ammo_type": {
+        "name": "il_tiran_4_sh_default"
+      }
+    },
+    {
+      "vehicle": "il_zsu_23_4",
+      "ammo_type": {
+        "name": "il_zsu_23_4_default"
+      }
+    },
+    {
+      "vehicle": "il_zsu_57_2",
+      "ammo_type": {
+        "name": "il_zsu_57_2_default"
+      }
+    },
+    {
+      "vehicle": "il_aml_90",
+      "ammo_type": {
+        "name": "il_aml_90_default"
+      }
+    },
+    {
+      "vehicle": "il_amx_13_75",
+      "ammo_type": {
+        "name": "il_amx_13_75_default"
+      }
+    },
+    {
+      "vehicle": "il_centurion_mk_5_shot",
+      "ammo_type": {
+        "name": "il_centurion_mk_5_shot_default"
+      }
+    },
+    {
+      "vehicle": "il_centurion_shot_kal_alef",
+      "ammo_type": {
+        "name": "il_centurion_shot_kal_alef_default"
+      }
+    },
+    {
+      "vehicle": "il_centurion_shot_kal_d",
+      "ammo_type": {
+        "name": "il_centurion_shot_kal_d_default"
+      }
+    },
+    {
+      "vehicle": "il_centurion_shot_kal_gimel",
+      "ammo_type": {
+        "name": "il_centurion_shot_kal_gimel_default"
+      }
+    },
+    {
+      "vehicle": "il_m109",
+      "ammo_type": {
+        "name": "il_m109_default"
+      }
+    },
+    {
+      "vehicle": "il_m109a1",
+      "ammo_type": {
+        "name": "il_m109a1_default"
+      }
+    },
+    {
+      "vehicle": "il_m113a1_tow",
+      "ammo_type": {
+        "name": "il_m113a1_tow_default"
+      }
+    },
+    {
+      "vehicle": "il_m163_vulcan",
+      "ammo_type": {
+        "name": "il_m163_vulcan_default"
+      }
+    },
+    {
+      "vehicle": "il_m48a1_patton_III",
+      "ammo_type": {
+        "name": "il_m48a1_patton_III_default"
+      }
+    },
+    {
+      "vehicle": "il_m_51",
+      "ammo_type": {
+        "name": "il_m_51_default"
+      }
+    },
+    {
+      "vehicle": "il_m_51_w",
+      "ammo_type": {
+        "name": "il_m_51_w_default"
+      }
+    },
+    {
+      "vehicle": "il_machbet",
+      "ammo_type": {
+        "name": "il_machbet_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_2",
+      "ammo_type": {
+        "name": "il_magach_2_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_3",
+      "ammo_type": {
+        "name": "il_magach_3_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_3_idf",
+      "ammo_type": {
+        "name": "il_magach_3_idf_default"
+      }
+    },
+    {
+      "vehicle": "il_magach_5",
+      "ammo_type": {
+        "name": "il_magach_5_default"
+      }
+    },
+    {
+      "vehicle": "il_sabra_mk1",
+      "ammo_type": {
+        "name": "il_sabra_mk1_default"
+      }
+    },
+    {
+      "vehicle": "il_tiran_6",
+      "ammo_type": {
+        "name": "il_tiran_6_default"
+      }
+    }
+  ]
+}
