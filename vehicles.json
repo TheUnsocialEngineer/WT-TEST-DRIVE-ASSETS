@@ -2243,9 +2243,9 @@
       }
     },
     {
-      "vehicle": "germ_pzkpfw_v_ausf_d_panther_tutoria",
+      "vehicle": "germ_pzkpfw_v_ausf_d_panther_tutorial",
       "ammo_type": {
-        "name": "germ_pzkpfw_v_ausf_d_panther_tutoria_default"
+        "name": "germ_pzkpfw_v_ausf_d_panther_tutorial_default"
       }
     },
     {
