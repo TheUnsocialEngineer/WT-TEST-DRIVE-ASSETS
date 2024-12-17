@@ -791,6 +791,18 @@
       "ammo_type": {
         "name": "us_t1e1_90_default"
       }
+    },
+    {
+      "vehicle": "us_rdf_lt",
+      "ammo_type": {
+        "name": "us_rdf_lt_default"
+      }
+    },
+    {
+      "vehicle": "us_m44",
+      "ammo_type": {
+        "name": "us_m44_default"
+      }
     }
   ],
   "China": [
@@ -824,6 +836,12 @@
         "name": "cn_gmc_cckw_353_m45_quad_default"
       }
     },
+      {
+    "vehicle": "cn_hq_17",
+    "ammo_type": {
+      "name": "cn_hq_17_default"
+    }
+  },
     {
       "vehicle": "cn_hj_9",
       "ammo_type": {
@@ -1318,6 +1336,42 @@
     }
   ],
   "Germany": [
+    {
+      "vehicle": "germ_pzh_2000",
+      "ammo_type": {
+        "name": "germ_pzh_2000_default"
+      }
+    },
+    {
+      "vehicle": "germ_9a35_m",
+      "ammo_type": {
+        "name": "germ_9a35_m_default"
+      }
+    },
+    {
+      "vehicle": "germ_m44",
+      "ammo_type": {
+        "name": "germ_m44_default"
+      }
+    },
+    {
+      "vehicle": "germ_flakpanzer_IV_Ostwind_2_net",
+      "ammo_type": {
+        "name": "germ_flakpanzer_IV_Ostwind_2_net_default"
+      }
+    },
+    {
+      "vehicle": "pzkpfw_VI_ausf_h1_tiger_east",
+      "ammo_type": {
+        "name": "pzkpfw_VI_ausf_h1_tiger_east_default"
+      }
+    },
+    {
+      "vehicle": "pzkpfw_VI_ausf_h1_tiger_west",
+      "ammo_type": {
+        "name": "pzkpfw_VI_ausf_h1_tiger_west_default"
+      }
+    },
     {
       "vehicle": "germ_amd_35_kwk",
       "ammo_type": {
@@ -2304,6 +2358,12 @@
         "name": "ussr_2s1_default"
       }
     },
+     {
+    "vehicle": "ussr_bmd_4m",
+    "ammo_type": {
+      "name": "ussr_bmd_4m_default"
+    }
+  },
     {
       "vehicle": "ussr_2s25",
       "ammo_type": {
@@ -3374,6 +3434,18 @@
         "name": "uk_17_pdr_m10_achilles_default"
       }
     },
+      {
+    "vehicle": "uk_9a35_m",
+    "ammo_type": {
+      "name": "uk_9a35_m_default"
+    }
+  },
+  {
+    "vehicle": "uk_m44",
+    "ammo_type": {
+      "name": "uk_m44_default"
+    }
+  },
     {
       "vehicle": "uk_17_pdr_m10_achilles_norfolk_yeom",
       "ammo_type": {
@@ -4132,6 +4204,12 @@
         "name": "jp_halftrack_m16_default"
       }
     },
+     {
+    "vehicle": "jp_m44",
+    "ammo_type": {
+      "name": "jp_m44_default"
+    }
+  },
     {
       "vehicle": "jp_hiro_sha",
       "ammo_type": {
@@ -4572,6 +4650,24 @@
         "name": "it_39m_csaba_default"
       }
     },
+     {
+    "vehicle": "it_9a35_m",
+    "ammo_type": {
+      "name": "it_9a35_m_default"
+    }
+  },
+  {
+    "vehicle": "it_m44",
+    "ammo_type": {
+      "name": "it_m44_default"
+    }
+  },
+  {
+    "vehicle": "it_pzh_2000_hu",
+    "ammo_type": {
+      "name": "it_pzh_2000_hu_default"
+    }
+  },
     {
       "vehicle": "it_40_43m_zrinyi_2",
       "ammo_type": {
@@ -5120,6 +5216,18 @@
         "name": "fr_amc_34_default"
       }
     },
+      {
+    "vehicle": "fr_vbci",
+    "ammo_type": {
+      "name": "fr_vbci_default"
+    }
+  },
+  {
+    "vehicle": "fr_m44",
+    "ammo_type": {
+      "name": "fr_m44_default"
+    }
+  },
     {
       "vehicle": "fr_amc_35",
       "ammo_type": {
@@ -6174,6 +6282,12 @@
         "name": "il_magach_5_default"
       }
     },
+      {
+    "vehicle": "il_namer_tsrikhon",
+    "ammo_type": {
+      "name": "il_namer_tsrikhon_default"
+    }
+  },
     {
       "vehicle": "il_magach_6",
       "ammo_type": {
