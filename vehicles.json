@@ -1345,31 +1345,31 @@
     {
       "vehicle": "germ_9a35_m",
       "ammo_type": {
-        "name": "germ_9a35_m_default"
+        "name": "ussr_9a35_m2_default"
       }
     },
     {
       "vehicle": "germ_m44",
       "ammo_type": {
-        "name": "germ_m44_default"
+        "name": "us_m44_default"
       }
     },
     {
       "vehicle": "germ_flakpanzer_IV_Ostwind_2_net",
       "ammo_type": {
-        "name": "germ_flakpanzer_IV_Ostwind_2_net_default"
+        "name": "germ_flakpanzer_IV_Ostwind_2_default"
       }
     },
     {
       "vehicle": "pzkpfw_VI_ausf_h1_tiger_east",
       "ammo_type": {
-        "name": "pzkpfw_VI_ausf_h1_tiger_east_default"
+        "name": "pzkpfw_VI_ausf_h1_tiger_default"
       }
     },
     {
       "vehicle": "pzkpfw_VI_ausf_h1_tiger_west",
       "ammo_type": {
-        "name": "pzkpfw_VI_ausf_h1_tiger_west_default"
+        "name": "pzkpfw_VI_ausf_h1_tiger_default"
       }
     },
     {
@@ -3437,13 +3437,13 @@
       {
     "vehicle": "uk_9a35_m",
     "ammo_type": {
-      "name": "uk_9a35_m_default"
+      "name": "ussr_9a35_m2_default"
     }
   },
   {
     "vehicle": "uk_m44",
     "ammo_type": {
-      "name": "uk_m44_default"
+      "name": "us_m44_default"
     }
   },
     {
@@ -4207,7 +4207,7 @@
      {
     "vehicle": "jp_m44",
     "ammo_type": {
-      "name": "jp_m44_default"
+      "name": "us_m44_default"
     }
   },
     {
@@ -4653,13 +4653,13 @@
      {
     "vehicle": "it_9a35_m",
     "ammo_type": {
-      "name": "it_9a35_m_default"
+      "name": "ussr_9a35_m2_default"
     }
   },
   {
     "vehicle": "it_m44",
     "ammo_type": {
-      "name": "it_m44_default"
+      "name": "us_m44_default"
     }
   },
   {
@@ -5225,7 +5225,7 @@
   {
     "vehicle": "fr_m44",
     "ammo_type": {
-      "name": "fr_m44_default"
+      "name": "us_m44_default"
     }
   },
     {
