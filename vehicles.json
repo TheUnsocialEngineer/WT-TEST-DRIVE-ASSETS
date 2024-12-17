@@ -1685,7 +1685,7 @@
       }
     },
     {
-      "vehicle": "germ_panzerbefelhswagen_IV_ausf_J",
+      "vehicle": "germ_panzerbefelhagen_IV_ausf_J",
       "ammo_type": {
         "name": "germ_panzerbefelhswagen_IV_ausf_J_default"
       }
@@ -5684,6 +5684,12 @@
       "vehicle": "sw_cv_90120",
       "ammo_type": {
         "name": "sw_cv_90120_default"
+      }
+    },
+    {
+      "vehicle": "sw_cv_90_mk4",
+      "ammo_type": {
+        "name": "sw_cv_90_mk4_default"
       }
     },
     {
